@@ -107,13 +107,15 @@ The research framework should be treated as versioned and revisable rather than 
 
 ## Long-Term Vision
 
-If the initial model works, The Provision Project can become a navigable historical map of the federal tax code.
+If the initial model works, The Provision Project can become a navigable map of the federal tax code.
 
-A reader should eventually be able to open a provision and follow a connected record:
+A reader should be able to explore the code provision by provision, understand how each rule works today, who qualifies for it, who economically benefits, what its fiscal effect is, and trace how and why it entered the code and changed over time.
 
-**Current law → eligibility and mechanics → enactment → original rationale → major amendments → current beneficiaries and economic incidence → fiscal effect → underlying sources**
+A provision record should connect those dimensions:
 
-The interface should make it possible to understand not only what the tax code contains, but how particular rules arrived there and how they evolved.
+**Current law → eligibility and mechanics → beneficiaries and economic incidence → fiscal effect → enactment and original rationale → major amendments → underlying sources**
+
+The interface should make it possible to understand what the tax code contains and how its provisions relate to the people, activities, industries, and economic outcomes they affect, while preserving the history of how particular rules arrived there and evolved.
 
 Over time, structured provision records could also make broader questions easier to explore: which eras produced particular kinds of tax provisions, how frequently provisions are amended or extended, which industries or taxpayer groups are affected by related rules, and how official estimates of fiscal effects change over time.
 
