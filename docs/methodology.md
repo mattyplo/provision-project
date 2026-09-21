@@ -320,6 +320,22 @@ A research record should make it possible for a reader to distinguish:
 
 An inference should identify its supporting evidence and confidence level.
 
+## Research Ethics and Editorial Principles
+
+The Provision Project documents politically consequential public policy. Its research may be used by people with different political, economic, or institutional interests. The project cannot control those uses, but it can make its own methods, evidence, and judgments transparent and auditable.
+
+The project should therefore:
+
+- **Inform rather than advocate.** Records should explain what a provision does, why it exists, how it has changed, who uses or benefits from it, and its estimated fiscal effects without recommending that the provision be preserved, repealed, expanded, or restricted.
+- **Avoid loaded classifications.** Terms such as "loophole," "giveaway," "wasteful," or "job creator" should not be adopted as factual conclusions. When such characterizations are relevant to the policy debate, attribute them to their source.
+- **Separate evidence from interpretation.** Statutory facts, government estimates, empirical findings, stakeholder arguments, and project inferences should remain distinguishable.
+- **Make uncertainty visible.** Do not force conclusions where the evidence is incomplete. "Unknown," "uncertain," and "disputed" are legitimate research outcomes.
+- **Preserve provenance.** Consequential claims should be traceable to their supporting sources and, where practical, to the relevant page, section, table, or statutory language.
+- **Guard against selection bias.** The choice of provisions studied can shape the apparent story of the tax code even when individual records are accurate. Provision-selection criteria should be documented and applied consistently as coverage expands.
+- **Correct transparently.** Material errors and methodological changes should be corrected openly, with revision history preserved where practical.
+
+The goal is not to make the research politically unusable. It is to make the underlying evidence sufficiently transparent that readers can inspect it, challenge it, and reach their own conclusions.
+
 ## Completion Criteria
 
 A provision record reaches initial research completeness when each required category has been investigated and either answered with sourced evidence or explicitly marked as unresolved.
