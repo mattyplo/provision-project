@@ -283,9 +283,9 @@ Stakeholder and advocacy arguments should be attributed rather than presented as
 
 Map important claims to their evidence. A bibliography alone is not sufficient when it obscures which source supports which claim.
 
-| Claim / section supported | Source | Source role | Pinpoint citation | Evidence notes |
-| --- | --- | --- | --- | --- |
-| | | | | |
+| Claim / section supported | Source | Source role | Source status / provenance | Claim relationship | Pinpoint citation | Evidence notes |
+| --- | --- | --- | --- | --- | --- | --- |
+| | | | | | | |
 
 Suggested source roles include:
 
@@ -300,8 +300,26 @@ Suggested source roles include:
 - empirical research;
 - secondary synthesis;
 - stakeholder argument;
-- journalism;
-- project inference support.
+- journalism.
+
+### Source status and claim relationship
+
+Keep separate what a source **is** from how it is being used for a particular claim.
+
+Where relevant, record source status / provenance such as:
+
+- official or nonofficial;
+- primary or secondary; and
+- contemporaneous or retrospective.
+
+For each mapped claim, record the source's relationship to that claim where useful:
+
+- **direct support** — the source directly supports the claim;
+- **contextual support** — the source helps interpret or contextualize the claim but is not sufficient on its own;
+- **lead only** — the source points toward evidence that should be independently retrieved and cited where practical; or
+- **inference support** — the source is evidence used by the project to make an explicitly labeled inference.
+
+`Inference support` is not a source role. The underlying source remains, for example, a statute, government dataset, empirical study, or legislative-history source. Confidence or evidence state belongs to the claim or project inference, not to the source itself.
 
 ### Source details
 
@@ -319,6 +337,8 @@ For each source used, preserve where applicable:
 - population;
 - baseline or estimate type;
 - whether the evidence is contemporaneous or retrospective;
+- official or nonofficial status, where material;
+- primary or secondary status, where material;
 - known limitations.
 
 ## 15. Project Inferences
@@ -357,7 +377,8 @@ Before treating the record as initially complete, check for:
 - [ ] Claims about legislative rationale are precisely attributed.
 - [ ] Material amendments are traced to enacted law.
 - [ ] Consequential factual and analytical claims are mapped to sources.
-- [ ] Project inferences are visibly labeled.
+- [ ] Project inferences are visibly labeled and carry their own reasoning and evidence state.
+- [ ] Source role is kept separate from source status/provenance and claim relationship.
 - [ ] Fiscal estimates identify measurement type, period, baseline, and limitations.
 - [ ] Tax expenditure estimates are not presented as automatic repeal revenue.
 - [ ] Historical estimates are not presented as current.
