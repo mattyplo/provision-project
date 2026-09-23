@@ -6,12 +6,11 @@
 
 - **Provision name:**
 - **Working short name:**
-- **Record status:** Draft / Research complete / Needs review
+- **Record status:** Draft / Needs review / Initially complete
 - **Last researched:**
 - **Researcher(s):**
 - **Current Code citation(s):**
 - **Related Code citation(s):**
-- **Evidence state summary:** Established / Supported / Uncertain / Disputed / Unknown
 
 ## 1. Provision Definition and Scope
 
@@ -29,7 +28,7 @@ Identify definitions, limitations, elections, transition rules, or neighboring p
 
 ## 2. Current Law
 
-Explain how the provision operates under current law in plain language.
+Explain how the provision operates under current law in plain language. Include regulations, administrative guidance, and judicial interpretations here when they are necessary to state the operative legal rule; use Section 12 for administration, compliance, implementation effects, and practical interpretation.
 
 Document, as applicable:
 
@@ -67,23 +66,26 @@ Record important exclusions or limitations where they help define the provision.
 
 ## 4. Origin and Enactment
 
-### Original enactment or recognizable predecessor
+### Origin / predecessor entry
 
-- **Public Law:**
-- **Bill:**
-- **Enactment date:**
-- **Original Code section:**
-- **Public Law section:**
-- **Statutes at Large citation:**
-- **Effective date:**
+Use one entry for each material origin or predecessor. Repeat as needed rather than forcing a single canonical origin.
 
-### What did the original provision do?
+- **Relationship to current provision:** Original enactment / Predecessor / One of multiple roots / Other
+- **Public Law or other authority:**
+- **Bill, where applicable:**
+- **Enactment or relevant date:**
+- **Original Code or other citation:**
+- **Public Law section, where applicable:**
+- **Statutes at Large citation, where applicable:**
+- **Effective date, including transition treatment where material:**
 
-Summarize the enacted rule and important differences from current law.
+#### What did this origin or predecessor do?
+
+Summarize the rule and its relationship to the current provision, including important differences from current law.
 
 ### Historical boundary note
 
-Explain whether the modern provision has a clear single origin or evolved from an earlier policy that requires separate treatment.
+Explain whether the modern provision has a clear single origin, several independently enacted roots, a predecessor outside the Code, or a policy lineage that is ambiguous or requires separate treatment.
 
 ### Origin evidence state
 
@@ -107,7 +109,7 @@ Record later government, academic, historical, or other credible interpretations
 
 ### Project inference
 
-If the project draws a conclusion not explicitly stated by the sources, describe the inference, supporting evidence, and reasoning.
+Summarize any relevant project inference here when useful, but document consequential project inferences using the canonical structure in Section 15, including supporting evidence, reasoning, evidence state, and limitations.
 
 ### Rationale evidence state
 
@@ -116,15 +118,17 @@ If the project draws a conclusion not explicitly stated by the sources, describe
 - **Competing explanations:**
 - **Limitations:**
 
-## 6. Material Amendment History
+## 6. Material Development History
 
-Include changes that materially affected eligibility, rates, thresholds, scope, duration, mechanics, or fiscal significance. Minor technical corrections need not be included unless consequential.
+Include statutory and material nonstatutory developments that affected eligibility, rates, thresholds, scope, duration, mechanics, administration, interpretation, or fiscal significance. These may include legislation, final or temporary regulations, significant administrative guidance, and judicial interpretations. Proposed regulations may be included when historically important but must be clearly identified as proposed rather than operative law. Minor technical changes need not be included unless consequential.
 
-| Date | Legislation | Statutory change | Documented rationale | Estimated fiscal effect at the time | Sources |
-| --- | --- | --- | --- | --- | --- |
-| | | | | | |
+| Date | Type | Authority / document | Material change or development | Documented rationale or explanation | Effective date / operative status | Estimated fiscal effect at the time, where available and material | Sources |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| | | | | | | | |
 
-### Amendment-history evidence state
+For documented rationale or explanation, preserve whether the evidence is contemporaneous with the particular development or a later retrospective account.
+
+### Development-history evidence state
 
 - **State:**
 - **Known gaps:**
@@ -137,13 +141,25 @@ Where data permit, report:
 
 - number of returns or taxpayers using the provision;
 - amount deducted, excluded, credited, deferred, or otherwise receiving the tax treatment;
-- estimated reduction or deferral in tax liability;
+- estimated reduction or deferral in tax liability, only where a source actually measures or models it;
 - income distribution;
 - business or industry distribution;
 - geographic distribution;
 - changes in use over time.
 
-For every statistic, preserve the tax year or period, population, unit of observation, source, and relevant limitations.
+For every statistic, preserve the tax year or period, population, unit of observation, source, and relevant limitations. Amounts reported for deductions, exclusions, credits, or other tax items should not be treated as tax savings unless the source actually measures or models the resulting change in tax liability.
+
+### Observation
+
+Use a repeatable observation entry for consequential observed-use statistics. Repeat as needed.
+
+- **Measure:**
+- **Value:**
+- **Tax year / period:**
+- **Population:**
+- **Unit of observation:**
+- **Source:**
+- **Limitations:**
 
 ### What can the data establish?
 
@@ -191,9 +207,16 @@ For important studies or analyses, preserve:
 
 ### Project assessment
 
-State what the evidence supports and explain any inferential step.
+State what the evidence supports and explain any inferential step. Do not force a single general conclusion when credible evidence supports only bounded findings that differ by population, time period, market, or version of the provision.
 
-- **Economic incidence:** [finding] / Unknown / Insufficient evidence
+### Incidence assessment
+
+Repeat as needed for materially different findings.
+
+- **Assessment:** [bounded finding] / No general conclusion / Unknown
+- **Population / market:**
+- **Time period:**
+- **Provision version:**
 - **Evidence state:** Established / Supported / Uncertain / Disputed / Unknown
 - **Reasoning:**
 - **Important limitations:**
@@ -210,7 +233,7 @@ Where evidence permits, describe how use, direct tax benefits, or economic benef
 - household characteristics;
 - other provision-specific categories.
 
-Always identify which concept is being distributed: **use**, **direct tax benefit**, or **economic incidence**.
+Always identify which concept is being distributed: **use**, **reported treatment amount**, **direct tax benefit**, or **economic incidence**, together with the relevant population and period.
 
 ### Distribution evidence state
 
@@ -230,8 +253,11 @@ For each estimate, record:
 | Publication / estimate identifier | |
 | Publication date | |
 | Estimate type | Tax expenditure / Revenue estimate / Repeal or reform estimate / Other |
+| Law / proposal version | |
 | Years covered | |
 | Amount | |
+| Presentation | One-year figure / Annual series / Budget-window total / Other / Not stated |
+| Measurement basis / timing convention | Current-revenue / Present-value / Other / Not stated |
 | Baseline or reference law | |
 | Behavioral responses incorporated? | |
 | Interactions with other provisions | |
@@ -263,7 +289,13 @@ Where material to understanding the provision, describe:
 - GAO or other evaluations;
 - material judicial interpretations.
 
-Distinguish statutory requirements from agency interpretation and implementation.
+Distinguish statutory requirements from agency interpretation and implementation. Section 2 should contain regulatory, administrative, or judicial material needed to state the operative legal rule; this section should focus on administration, compliance, implementation effects, and practical interpretation.
+
+### Administration and implementation evidence state
+
+- **State:** Established / Supported / Uncertain / Disputed / Unknown
+- **Basis:**
+- **Limitations:**
 
 ## 13. Significant Disagreements and Uncertainty
 
@@ -279,11 +311,15 @@ For each important disagreement, identify:
 
 Stakeholder and advocacy arguments should be attributed rather than presented as independent factual conclusions.
 
+### Cross-section workflow
+
+Observed Use, Direct Tax Benefit, Distribution, and Economic Incidence intentionally separate different questions. Put evidence and interpretation primarily in the relevant substantive section and cross-reference other sections rather than duplicating the same analysis.
+
 ## 14. Source Map
 
 Map important claims to their evidence. A bibliography alone is not sufficient when it obscures which source supports which claim.
 
-| Claim / section supported | Source | Source role | Source status / provenance | Claim relationship | Pinpoint citation | Evidence notes |
+| Claim ID or precise claim | Source | Source role | Provenance / status attributes | Claim relationship | Pinpoint citation | Evidence notes |
 | --- | --- | --- | --- | --- | --- | --- |
 | | | | | | | |
 
@@ -306,17 +342,20 @@ Suggested source roles include:
 
 Keep separate what a source **is** from how it is being used for a particular claim.
 
-Where relevant, record source status / provenance such as:
+Where relevant, record provenance / status attributes such as:
 
 - official or nonofficial;
-- primary or secondary; and
-- contemporaneous or retrospective.
+- primary or secondary;
+- contemporaneous or retrospective;
+- proposed, temporary, or final for regulations and similar rulemaking material;
+- precedential or nonprecedential where legally relevant; and
+- official publication or unofficial compilation where that distinction matters.
 
 For each mapped claim, record the source's relationship to that claim where useful:
 
 - **direct support** — the source directly supports the claim;
 - **contextual support** — the source helps interpret or contextualize the claim but is not sufficient on its own;
-- **lead only** — the source points toward evidence that should be independently retrieved and cited where practical; or
+- **lead only** — the source points toward evidence that should be independently retrieved and cited where practical; a lead-only source does not by itself satisfy final-audit support for a consequential claim; or
 - **inference support** — the source is evidence used by the project to make an explicitly labeled inference.
 
 `Inference support` is not a source role. The underlying source remains, for example, a statute, government dataset, empirical study, or legislative-history source. Confidence or evidence state belongs to the claim or project inference, not to the source itself.
@@ -360,6 +399,8 @@ Repeat as needed.
 
 List unresolved research questions, missing documents, unavailable data, and claims that remain Unknown or insufficiently supported.
 
+**Unknown** is the formal evidence state when the available research does not support a conclusion. **Insufficient evidence** may be used descriptively to explain why a claim is Unknown; it is not a separate evidence-state category.
+
 - 
 - 
 - 
@@ -373,20 +414,20 @@ Before treating the record as initially complete, check for:
 - [ ] Eligibility is not confused with observed use.
 - [ ] Observed use is not confused with direct tax benefit.
 - [ ] Direct tax benefit is not confused with economic incidence.
-- [ ] Original enactment and effective date are established or explicitly unresolved.
+- [ ] Material origins or predecessors and their effective dates are established, represented as multiple roots where necessary, or explicitly unresolved.
 - [ ] Claims about legislative rationale are precisely attributed.
-- [ ] Material amendments are traced to enacted law.
+- [ ] Material statutory and nonstatutory developments are traced to the appropriate authority and operative status.
 - [ ] Consequential factual and analytical claims are mapped to sources.
 - [ ] Project inferences are visibly labeled and carry their own reasoning and evidence state.
 - [ ] Source role is kept separate from source status/provenance and claim relationship.
-- [ ] Fiscal estimates identify measurement type, period, baseline, and limitations.
+- [ ] Fiscal estimates identify estimate type, law/proposal version, period, presentation, measurement basis/timing convention, baseline, and limitations.
 - [ ] Tax expenditure estimates are not presented as automatic repeal revenue.
 - [ ] Historical estimates are not presented as current.
 - [ ] Stakeholder arguments are attributed.
 - [ ] Credible disagreements are represented.
 - [ ] Missing or conflicting evidence is visible.
 - [ ] Primary sources have been used where reasonably obtainable.
-- [ ] Citations actually support the claims attached to them.
+- [ ] Citations actually support the claims attached to them; lead-only sources do not substitute for retrieved supporting evidence.
 - [ ] Unknown / insufficient evidence is used where the research does not support a stronger conclusion.
 
 ## 18. Research Completion Summary
