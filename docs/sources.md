@@ -272,6 +272,8 @@ Different forms of IRS material carry different legal weight. IRS FAQs, press re
 
 The IRS specifically cautions that FAQs generally cannot be relied upon as legal authority.
 
+Written determinations, including private letter rulings and similar materials, generally may not be used or cited as precedent under 26 U.S.C. § 6110(k)(3). They may still be useful for understanding IRS treatment of a specific matter or as research leads, but they should not be treated as generally authoritative interpretive support.
+
 ## Statistics of Income (SOI)
 
 **Primary uses:**
@@ -293,7 +295,7 @@ Available products include historical tables, individual and corporation reports
 
 ### Research caution
 
-A tax-return field does not always map cleanly to a provision. Aggregated tables may combine provisions, omit nonfilers, suppress cells, or reflect reporting rules rather than economic incidence.
+A tax-return field does not always map cleanly to a provision. Aggregated tables may combine provisions, omit nonfilers, suppress cells, or reflect reporting rules rather than economic incidence. An amount reported for a deduction, exclusion, credit, or other tax item also does not necessarily equal the taxpayer's reduction in tax liability.
 
 Always document the tax year, filing population, variable definition, unit of observation, and known limitations.
 
@@ -373,15 +375,17 @@ They are generally secondary rather than primary evidence for statutory enactmen
 - notices;
 - agency explanations;
 - effective dates;
-- public comments and rulemaking history.
+- agency discussion of comments, docket references, and rulemaking history.
 
 **Start here:** https://www.federalregister.gov/
 
 ## eCFR
 
-**Primary use:** Current Code of Federal Regulations.
+**Primary use:** Current, updated editorial compilation of CFR text.
 
 **Start here:** https://www.ecfr.gov/
+
+eCFR is an excellent current-law research tool, but it is not the official annual edition of the Code of Federal Regulations. Preserve the page's current-as-of date when relevant. Where historical or version-specific regulatory text matters, use annual CFR editions together with the relevant Federal Register amendment history.
 
 For tax provisions whose real-world operation depends heavily on regulation, preserve both the Code citation and the relevant regulation citation.
 
@@ -509,6 +513,8 @@ Potential sources include:
 
 Historical claims should identify whether the source is contemporaneous with enactment or a later reconstruction.
 
+When Congress.gov or GovInfo does not provide an older committee report, hearing, or related legislative document, use practical fallbacks such as Library of Congress collections and catalog records, the Congressional Serial Set, or other institutional legislative-history collections, then cite the underlying document where obtainable.
+
 ---
 
 # 16. Source Selection by Question
@@ -518,11 +524,11 @@ Historical claims should identify whether the source is contemporaneous with ena
 | What does the provision do today? | U.S. Code; Treasury regulations; authoritative IRS guidance; relevant case law |
 | When was it enacted? | Public Law; Statutes at Large; U.S. Code historical/amendment notes |
 | What did the original law say? | Public Law; Statutes at Large |
-| Why was it enacted? | Contemporary committee/conference reports; JCT materials; Congressional Record; administration materials |
+| Why was it enacted? | Contemporaneous committee/conference reports; JCT materials; Congressional Record; administration materials |
 | How has it changed? | U.S. Code amendment notes; Public Laws; JCT explanations; committee reports |
 | Who is legally eligible? | U.S. Code; regulations; authoritative guidance |
 | Who actually uses it? | IRS SOI; Treasury/JCT/GAO data; administrative datasets |
-| Who receives the direct tax benefit? | IRS/SOI data; JCT/Treasury distributional analysis; empirical research |
+| Who receives the direct tax benefit? | IRS/SOI data where tax-liability effects are actually measured; JCT/Treasury distributional analysis; empirical research |
 | Who ultimately benefits economically? | Empirical economic literature; official incidence analysis; transparent datasets |
 | What is its fiscal effect? | JCT revenue/tax expenditure estimates; Treasury tax expenditure estimates; relevant CBO context |
 | How is it administered? | IRS; Treasury; GAO; regulations; administrative data |
@@ -546,6 +552,7 @@ At minimum:
 - **date accessed**, when appropriate
 - **claim(s) supported**
 - **source role** — e.g. statute, legislative history, estimate, empirical analysis, stakeholder argument
+- **claim relationship** — e.g. direct support, contextual support, lead only, inference support
 
 Where relevant, also capture:
 
@@ -577,9 +584,8 @@ Suggested roles:
 - **secondary synthesis**
 - **stakeholder argument**
 - **journalism**
-- **project inference support**
 
-A source may serve more than one role, but the claim should make clear how it is being used.
+A source may serve more than one role, but the claim should make clear how it is being used. Whether a source directly supports a claim, provides context, serves only as a research lead, or supports a project inference is a relationship between the source and the claim rather than a source role.
 
 ---
 
