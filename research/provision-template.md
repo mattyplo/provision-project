@@ -313,6 +313,19 @@ Distinguish statutory requirements from agency interpretation and implementation
 - **Basis:**
 - **Limitations:**
 
+### External-program dependencies
+
+Complete only when eligibility, allocation, delivery, or compliance materially depends on a program outside federal tax administration. Repeat for distinct dependencies; otherwise state **None identified**. Distinguish the outside program's actions from IRS/Treasury tax administration. Cite the legal authority **and** authoritative program/agency documentation for each material role; link sources with pinpoint references where practical.
+
+- **Agency / program:**
+- **External legal authority and sources:**
+- **Role in eligibility or qualifying activity:**
+- **Role in allocation, administration, delivery, or compliance:**
+- **Data or determinations generated (and availability, if known):**
+- **Relationship to the tax provision (including Code authority and sources):**
+- **Boundary:** Constitutive dependency / Related context — explain which external-program rules are necessary to understand the tax treatment, without treating the whole outside program as part of the tax provision.
+- **Evidence gaps or uncertainty:**
+
 ## 13. Significant Disagreements and Uncertainty
 
 Record credible disagreements rather than forcing consensus.
