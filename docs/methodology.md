@@ -291,6 +291,12 @@ When evidence conflicts:
 
 Arguments from advocacy organizations, industries, affected groups, elected officials, and critics may be useful evidence about the debate surrounding a provision. They should be attributed and should not be presented as independent factual conclusions merely because they are frequently repeated.
 
+## External-Program Dependencies
+
+Tax-return processing, IRS forms, and Treasury guidance are **tax administration**; a separate program that supplies qualifying status, allocations, benefits, certifications, or compliance determinations is a **cross-program dependency**, even if the Code incorporates its rules. For material dependencies, identify the responsible agency/program, its non-tax legal authority, its specific eligibility and delivery/compliance roles, relevant data or determinations, and the statutory link to the tax treatment. Explain whether those external rules are necessary to define the provision or merely contextual; do not expand the record to cover the entire external program.
+
+Support material claims about the outside program's legal or administrative role with linked primary legal authorities and authoritative agency/program documents, using pinpoint citations where practical. Separate statutory mandates from descriptions of implementation. If no material external dependency is identified, say so; do not infer one from administrative complexity alone.
+
 ## Source Provenance
 
 Important factual and analytical claims should be traceable to their supporting sources.
