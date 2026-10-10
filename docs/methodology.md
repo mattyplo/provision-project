@@ -47,18 +47,22 @@ Establish:
 - related provisions that may affect its operation; and
 - the boundaries of the research record.
 
-### 2. Establish current law
+### 2. Establish a dated current-law snapshot
 
-Determine how the provision operates under current law.
+Every current-law description must state an explicit **as-of date**. Determine separately:
 
-Document:
+- what law has been enacted as of that date;
+- which rule is legally operative as of that date;
+- whether a materially different future-effective rule has already been enacted;
+- the effective date or triggering rule for each regime;
+- any sunset or expiration; and
+- any transition rule that determines which regime applies.
 
-- the relevant statutory language;
-- important definitions;
-- eligibility requirements;
-- limitations, thresholds, phaseouts, elections, and exceptions;
-- interactions with other provisions; and
-- relevant effective or expiration dates.
+"Enacted" and "operative" are not synonyms. A provision record researched during a statutory transition should describe the operative regime first and then the enacted future regime, rather than blending both into a single narrative rule.
+
+For each operative or future regime, document the relevant statutory language, important definitions, eligibility requirements, limitations, thresholds, phaseouts, elections, exceptions, and interactions with other provisions. Effective-date, sunset, expiration, and transition claims should cite the Public Law, Code note, or other authoritative legal source that establishes the timing rule, with a pinpoint citation where practical.
+
+If enacted future-effective text is amended or repealed before it becomes operative, preserve that event in the material development history. The current-law snapshot should show the future regime actually scheduled under law as of the snapshot date, not superseded future text.
 
 Where interpretation depends materially on regulations, authoritative administrative guidance, or case law, those sources should be identified separately from the statutory text.
 
@@ -306,6 +310,8 @@ At minimum, source records should preserve:
 
 Direct quotations should be used sparingly. The project should generally summarize evidence while preserving enough citation detail for a reader to inspect the original source.
 
+Current-law timing claims require the same claim-level provenance as substantive mechanics. In particular, the as-of date should be supported by sources current to that snapshot, and claims about effective dates, delayed applicability, sunsets, expirations, and transition rules should point to the authority that establishes that timing. A codified section that displays future amendments is useful evidence of enacted law, but researchers should verify which text is operative for the period being described.
+
 ## Separating Evidence from Project Inference
 
 The Provision Project may make technical inferences, but they must be visible as inferences.
@@ -343,7 +349,8 @@ A provision record reaches initial research completeness when each required cate
 For the MVP, a provision record should include:
 
 - defined provision boundaries;
-- current-law explanation and statutory citations;
+- dated current-law snapshot distinguishing operative law from enacted future-effective law where applicable;
+- statutory citations and provenance for material effective dates, sunsets/expirations, and transition rules;
 - eligibility rules;
 - observed use where data are available;
 - original enactment and effective date;
@@ -362,6 +369,9 @@ For the MVP, a provision record should include:
 Before a provision record is treated as complete, review it for:
 
 - unsupported factual claims;
+- current-law descriptions without an explicit as-of date;
+- enacted future-effective rules presented as currently operative, or operative predecessor rules omitted during a transition;
+- effective-date, sunset/expiration, or transition claims without authoritative provenance;
 - claims of legislative intent that exceed the evidence;
 - confusion between eligibility, use, direct tax benefit, and economic incidence;
 - fiscal estimates presented without their measurement context;

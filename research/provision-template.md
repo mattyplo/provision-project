@@ -28,17 +28,33 @@ Identify definitions, limitations, elections, transition rules, or neighboring p
 
 ## 2. Current Law
 
-Explain how the provision operates under current law in plain language. Include regulations, administrative guidance, and judicial interpretations here when they are necessary to state the operative legal rule; use Section 12 for administration, compliance, implementation effects, and practical interpretation.
+Describe the legal landscape as a dated snapshot. "Current law" includes enacted law, but an enacted rule may not yet be operative. Do not describe a future-effective rule as though taxpayers are already subject to it, and do not omit an enacted future regime merely because it is not yet operative.
 
-Document, as applicable:
+- **Current-law as-of date:** YYYY-MM-DD
 
-- relevant statutory language and citations;
-- important definitions;
-- tax treatment or mechanism;
-- thresholds, rates, caps, phaseouts, elections, and exceptions;
-- interactions with other provisions;
-- effective, sunset, or expiration dates;
-- material regulations, administrative guidance, or judicial interpretations.
+### Operative regime as of the snapshot date
+
+Explain in plain language the rule operative as of the snapshot date, identifying the taxable years, transactions, or other periods to which it applies. Cite the statutory text and, where material, regulations, administrative guidance, or judicial interpretations.
+
+- **Operative Code citation(s):**
+- **Taxable years / transactions / periods covered:**
+- **Tax treatment or mechanism:**
+- **Important definitions, thresholds, rates, caps, phaseouts, elections, exceptions, and interactions:**
+- **Effective dates, sunsets/expirations, and transition rules (with authoritative pinpoint citations):**
+
+### Enacted future regime
+
+Complete this subsection whenever a materially different rule has been enacted by the as-of date but is not yet operative. Repeat for multiple future regimes. If none is known, state **None identified**.
+
+- **Status:** Enacted, not yet operative
+- **Code citation(s) and enacting/amending authority:**
+- **Scheduled effective date or triggering rule and periods covered:**
+- **What changes from the operative regime:**
+- **Effective dates, sunsets/expirations, and transition rules (with authoritative pinpoint citations):**
+
+A future-effective amendment that is later modified or repealed before becoming operative belongs in Section 6 as development history; do not present superseded text here as the scheduled future regime.
+
+Where material, explain administrative or judicial interpretations and interactions between predecessor, successor, and related provisions without duplicating the regime fields.
 
 ### Current-law evidence state
 
@@ -410,7 +426,9 @@ List unresolved research questions, missing documents, unavailable data, and cla
 Before treating the record as initially complete, check for:
 
 - [ ] Provision boundaries are explicit.
-- [ ] Current law is supported by current authoritative sources.
+- [ ] Current law has an explicit as-of date and is supported by authoritative sources current to that date.
+- [ ] Operative and enacted-but-future-effective regimes are distinguished where applicable.
+- [ ] Effective dates, sunsets/expirations, and material transition rules have claim-level provenance.
 - [ ] Eligibility is not confused with observed use.
 - [ ] Observed use is not confused with direct tax benefit.
 - [ ] Direct tax benefit is not confused with economic incidence.
