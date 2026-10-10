@@ -31,46 +31,30 @@ Identify definitions, limitations, elections, transition rules, or neighboring p
 Describe the legal landscape as a dated snapshot. "Current law" includes enacted law, but an enacted rule may not yet be operative. Do not describe a future-effective rule as though taxpayers are already subject to it, and do not omit an enacted future regime merely because it is not yet operative.
 
 - **Current-law as-of date:** YYYY-MM-DD
-- **Snapshot basis:** Identify the authoritative sources used to establish the law enacted as of this date.
 
 ### Operative regime as of the snapshot date
 
-Explain the rule that is legally operative on the as-of date in plain language.
+Explain in plain language the rule operative as of the snapshot date, identifying the taxable years, transactions, or other periods to which it applies. Cite the statutory text and, where material, regulations, administrative guidance, or judicial interpretations.
 
 - **Operative Code citation(s):**
 - **Taxable years / transactions / periods covered:**
 - **Tax treatment or mechanism:**
 - **Important definitions, thresholds, rates, caps, phaseouts, elections, exceptions, and interactions:**
-- **Effective-date authority and pinpoint citation:**
-- **Sunset / expiration:** None / Date or triggering rule
-- **Sunset / expiration authority and pinpoint citation:**
-- **Transition rules affecting this regime:**
-- **Transition-rule authority and pinpoint citation:**
+- **Effective dates, sunsets/expirations, and transition rules (with authoritative pinpoint citations):**
 
 ### Enacted future regime
 
 Complete this subsection whenever a materially different rule has been enacted by the as-of date but is not yet operative. Repeat for multiple future regimes. If none is known, state **None identified**.
 
 - **Status:** Enacted, not yet operative
-- **Code citation(s):**
-- **Enacting / amending authority:**
-- **Scheduled effective date or triggering rule:**
-- **Effective-date authority and pinpoint citation:**
-- **Scheduled sunset / expiration:** None / Date or triggering rule
-- **Sunset / expiration authority and pinpoint citation:**
-- **Transition rules:**
-- **Transition-rule authority and pinpoint citation:**
+- **Code citation(s) and enacting/amending authority:**
+- **Scheduled effective date or triggering rule and periods covered:**
 - **What changes from the operative regime:**
+- **Effective dates, sunsets/expirations, and transition rules (with authoritative pinpoint citations):**
 
 A future-effective amendment that is later modified or repealed before becoming operative belongs in Section 6 as development history; do not present superseded text here as the scheduled future regime.
 
-### Additional operative-law detail
-
-Document, as applicable:
-
-- relevant statutory language and citations;
-- material regulations, administrative guidance, or judicial interpretations needed to state either regime; and
-- interactions between predecessor, successor, and related provisions.
+Where material, explain administrative or judicial interpretations and interactions between predecessor, successor, and related provisions without duplicating the regime fields.
 
 ### Current-law evidence state
 
