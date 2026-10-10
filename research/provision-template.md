@@ -307,12 +307,6 @@ Where material to understanding the provision, describe:
 
 Distinguish statutory requirements from agency interpretation and implementation. Section 2 should contain regulatory, administrative, or judicial material needed to state the operative legal rule; this section should focus on administration, compliance, implementation effects, and practical interpretation.
 
-### Administration and implementation evidence state
-
-- **State:** Established / Supported / Uncertain / Disputed / Unknown
-- **Basis:**
-- **Limitations:**
-
 ### External-program dependencies
 
 Complete only when eligibility, allocation, delivery, or compliance materially depends on a program outside federal tax administration. Repeat for distinct dependencies; otherwise state **None identified**. Distinguish the outside program's actions from IRS/Treasury tax administration. Cite the legal authority **and** authoritative program/agency documentation for each material role; link sources with pinpoint references where practical.
@@ -325,6 +319,12 @@ Complete only when eligibility, allocation, delivery, or compliance materially d
 - **Relationship to the tax provision (including Code authority and sources):**
 - **Boundary:** Constitutive dependency / Related context — explain which external-program rules are necessary to understand the tax treatment, without treating the whole outside program as part of the tax provision.
 - **Evidence gaps or uncertainty:**
+
+### Administration and implementation evidence state
+
+- **State:** Established / Supported / Uncertain / Disputed / Unknown
+- **Basis:**
+- **Limitations:**
 
 ## 13. Significant Disagreements and Uncertainty
 
