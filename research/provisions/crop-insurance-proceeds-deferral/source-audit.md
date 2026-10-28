@@ -176,3 +176,16 @@ JCT, *Technical Explanation ... Tax Reform Act of 2014*, JCS-1-14, technical exp
 JCT, *Estimated Revenue Effects of the Tax Reform Act of 2014*, JCX-20-14 (Feb. 26, 2014), table p. 7 (PDF page 7, zero-based page 6), section III.D.3, estimates **+$10.4 billion over FY2014–2023** and **+$8.6 billion over FY2014–2018** for the combined proposal **“Certain special rules for taxable year of inclusion.”** Annual estimates (billions, FY2015–2023) are +1.7, +2.7, +2.1, +2.0, +0.8, +0.2, +0.2, +0.3, +0.3. **These figures cover a package, not §451(d)/(f) in isolation. Never report $10.4B as the cost of §451(f) or the revenue from repealing it alone.** Source: https://www.jct.gov/getattachment/9b4f3ef8-e9b6-4f8f-8132-adb62cf51bf6/x-20-14-4562.pdf
 
 **Status:** verified proposal and aggregate score; **open** whether any published JCT score isolates crop-insurance proceeds deferral. Distinguish prospective repeal revenue from Treasury/JCT annual tax-expenditure estimates, and from IRS amounts of deferred income. Further research: examine JCS-1-14 estimate footnotes and alternative 2014 scoring documents for a disaggregated estimate; if absent, retain “no provision-specific official fiscal estimate verified.”
+
+
+### A-23 — Follow-up: search for a disaggregated 2014 JCT estimate (October 27, 2026)
+
+**Research question:** Did JCT publish a revenue estimate specifically for repealing the crop-insurance proceeds/disaster-payment election, rather than for the broader Tax Reform Act of 2014 accounting-method package?
+
+**Examined public evidence:** JCT's [JCX-20-14 revenue-estimate table](https://www.jct.gov/publications/2014/jcx-20-14/) reports **+$10.4 billion for FY2014–2023** for the combined proposal “Certain special rules for taxable year of inclusion”; JCT's [JCS-1-14 technical explanation](https://www.jct.gov/getattachment/ea4e2f45-ecaa-430c-851e-b8f1b1df3d80/S-1-14-4674.pdf) and the [House Ways and Means section-by-section explanation of §3303](https://www.novoco.com/public-media/documents/ways_and_means_section_by_section_summary_final_022614.pdf) establish that the package also covered livestock-sale timing, utility-restructuring transactions, accrual-method income recognition, and advance payments. These sources **do not present a separately identified crop-insurance-deferral component score**.
+
+**Publication caveat:** [JCT's explanation of its revenue-estimating operations](https://www.jct.gov/operations/revenue-estimating/) notes that member-requested estimates generally remain confidential unless released. The absence of a component score in examined *public* materials does not establish that JCT never calculated one.
+
+**Disposition for MVP:** **No publicly available provision-specific estimate identified in the examined JCT and House materials.** Treat the search as provisionally closed for MVP purposes, not as proof of universal nonexistence. Do **not** assign any share of the $10.4 billion to §451(f). The $10.4 billion is an estimate of prospective revenue from a *proposed, unenacted package*, not an annual tax-expenditure estimate for the existing deferral.
+
+**Recommended provision-record field:** “Official provision-specific fiscal estimate: Not identified in the examined public sources.” Reopen only if a disaggregated primary-source score or other official estimate becomes available.
