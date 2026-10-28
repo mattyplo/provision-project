@@ -3,7 +3,7 @@
 **Provision:** 26 U.S.C. § 451(f), crop-insurance proceeds deferral  
 **Audit started:** 2026-10-27  
 **Research inputs:** [ChatGPT](chatgpt-deep-research.md), [Gemini](gemini-deep-research.md), [comparison](comparison.md)  
-**Status:** **In progress.** This is an independently checked source ledger, not a completed source audit or final provision record. Do not modify the original reports.
+**Status:** **MVP audit complete with documented limitations (2026-10-27).** This source ledger is not the final public provision record. The closing reconciliation below supersedes historical open-task notes; original research reports remain unchanged.
 
 ## Evidence standards
 
@@ -189,3 +189,22 @@ JCT, *Estimated Revenue Effects of the Tax Reform Act of 2014*, JCX-20-14 (Feb. 
 **Disposition for MVP:** **No publicly available provision-specific estimate identified in the examined JCT and House materials.** Treat the search as provisionally closed for MVP purposes, not as proof of universal nonexistence. Do **not** assign any share of the $10.4 billion to §451(f). The $10.4 billion is an estimate of prospective revenue from a *proposed, unenacted package*, not an annual tax-expenditure estimate for the existing deferral.
 
 **Recommended provision-record field:** “Official provision-specific fiscal estimate: Not identified in the examined public sources.” Reopen only if a disaggregated primary-source score or other official estimate becomes available.
+
+
+## Closing reconciliation — MVP source audit (2026-10-27)
+
+**Disposition:** Complete for the initial provision record, subject to the qualifications below. Earlier open-task entries document the chronological investigation and should not be interpreted as the current status.
+
+**Verified:** Current statutory text and regulations; 1969 enactment and the original Senate Finance Committee rationale (directly inspected); later statutory amendments and redesignation; the greater-than-50-percent customary-sales interpretation as described in *Nelson*; the 2009 IRS information letter; and carefully defined 2023 IRS Schedule F reporting figures.
+
+**Administrative-source limits:** Original Revenue Ruling 74-145 (1974-1 C.B. 113) and original Notice 89-55 (1989-20 I.R.B. 134) were not obtained. The former is supported by the published Eighth Circuit opinion in *Nelson*. Contemporary discussion of the latter concerns drought/disaster-assistance payments; it should not be presented as original IRS authority resolving today's revenue-insurance questions. Cite the 2009 IRS letter and current IRS Publication 225 separately for those questions.
+
+**Utilization:** IRS 2023 Schedule F line 6d reports prior-year deferrals recognized in 2023, not the count of new elections or the fiscal cost. Do not publish unverified 2020/2021 figures, line 6c counts, or claims of complete taxpayer/entity coverage.
+
+**Fiscal effects:** No provision-specific official estimate identified in the examined public sources. Treasury FY2027 did not separately list the provision in the examined report. JCT's $10.4 billion 2014 figure scores a broader unenacted proposal; it cannot be attributed to this election. An unidentified estimate is not evidence of zero cost.
+
+**Economic incidence:** Unknown / insufficient direct evidence. Eligible taxpayers should not be equated with ultimate economic beneficiaries.
+
+**Remaining optional research:** Retrieve the original 1974 ruling and 1989 notice; extend IRS statistical series; inspect additional Treasury workbooks; seek newly published provision-specific estimates. These are not blockers to a carefully qualified MVP record.
+
+**Publication gate:** Keep statutory facts, IRS interpretations, judicial holdings, official estimates, and technical inference distinct; attach source-specific citations to each substantive claim. This audit is ready for PR review, not automatic merge.
