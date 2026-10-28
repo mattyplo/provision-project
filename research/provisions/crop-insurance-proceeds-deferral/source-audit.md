@@ -66,3 +66,62 @@ The IRS's 2023 line-item estimates show a distinct **line 6d amount deferred fro
 - https://www.irs.gov/pub/irs-pdf/p4801.pdf (IRS SOI Publication 4801, Rev. 6-2026, tax year 2023)
 
 **Date caution:** The reports' target legal snapshot is 2026-10-21. The official Code URL above is a slightly earlier codification snapshot; the eCFR source is later. Confirm intervening enactments before labeling the *entire* as-of snapshot independently verified.
+
+
+---
+
+## Audit continuation — legislative history, administrative authority, utilization, fiscal estimates
+
+**Scope:** Additional direct examination of official statutory editorial notes, current IRS guidance, IRS SOI line-item estimates, JCT 2025–2029 report, and contemporary congressional/JCT explanatory leads. The original Senate report scan, original Revenue Ruling 74-145, and original Notice 89-55 were **not** directly inspected in this continuation.
+
+### Legislative history and effective-date checks
+
+| ID | Claim / evidence | Status | Primary locator and notes |
+|---|---|---|---|
+| A-16 | Congress created § 451(d) in the Tax Reform Act of 1969, § 215, to address the timing mismatch between insurance received after crop loss and the following-year marketing practice. | **Verified enactment; supported legislative rationale** | [Pub. L. 91-172 § 215](https://uscode.house.gov/statutes/pl/91/172.pdf); [Congressional Record, Oct. 20, 1969, Senator Miller Amendment No. 243](https://www.congress.gov/91/crecb/1969/10/20/GPO-CRECB-1969-pt22-6-2.pdf); [JCT, *General Explanation of the Tax Reform Act of 1969* (JCS-16-70), “7. Crop Insurance Proceeds”](https://www.taxnotes.com/research/federal/legislative-documents/jct-blue-books/joint-committee-report-jcs-16-70-general-explanation-of-the/1r3m8). The JCT explanation explicitly identifies bunching of prior-year crop-sale income and current-year indemnity, advance tax payment, and potential loss of personal exemptions/deductions. Senate Report 91-552 pp. 106–107 is located at the [Senate Finance Committee](https://www.finance.senate.gov/download/tax-reform-act-of-1969-report-91-552), but the ~41 MB scan could not be inspected directly; **do not claim direct Senate-report verification**. |
+| A-17 | 1976 expanded former § 451(d) to qualifying Agricultural Act of 1949 disaster payments and inability-to-plant events. | **Verified statutory amendment and effective date** | [Official Code amendment and effective-date notes](https://uscode.house.gov/us/usc/119-120/t26/s451/), “1976—Subsec. (d)” and “Effective Date of 1976 Amendment”; Pub. L. 94-455 § 2102(a)–(c), effective for payments received **after December 31, 1973, in tax years ending after that date**. [JCT 1976 general explanation JCS-33-76](https://www.jct.gov/publications/1976/jcs-33-76/) located; ~49 MB source scan not inspected, so 1976 *rationale* remains open. |
+| A-18 | 1988 added specified title II Disaster Assistance Act of 1988 payments. | **Verified statutory amendment and corrected effective date** | [Official Code § 451 editorial notes](https://uscode.house.gov/us/usc/119-120/t26/s451/), “1988—Subsec. (d)” and “Effective Date of 1988 Amendment”: Pub. L. 100-647 § 6033(a), effective for payments received **before, on, or after November 10, 1988**, as amended by Pub. L. 101-239 § 7816(g). **Do not confuse with § 6030(b)**, whose after-1987 effective date concerns livestock sales. Gemini's contrary 1988 effective-date characterization is incorrect. |
+| A-19 | 2017 changed the subsection label from former § 451(d) to current § 451(f). | **Verified** | [Official Code § 451, 2017 amendment note](https://uscode.house.gov/us/usc/119-120/t26/s451/): Pub. L. 115-97 § 13221 added new subsections and twice redesignated older subsections. Regulation § 1.451-6 retains its former § 451(d) cross-reference; do not treat the old number as a different current election. |
+| A-20 | Treasury regulations implement the election; 1977 amendments incorporated disaster-payment expansion. | **Verified text and amendment citation, not full original rulemaking history** | [26 CFR § 1.451-6](https://www.ecfr.gov/current/title-26/section-1.451-6), authority line: T.D. 7097, 36 FR 5215 (Mar. 18, 1971), amended T.D. 7526, 42 FR 64624 (Dec. 27, 1977), and T.D. 8429, 57 FR 38595 (Aug. 26, 1992). [Treasury archival regulation text](https://www.govinfo.gov/content/pkg/GOVPUB-T22-1bac9ce4176abd0155492a777a4e7b12/pdf/GOVPUB-T22-1bac9ce4176abd0155492a777a4e7b12-1.pdf) shows 1977 addition treating qualifying Agricultural Act payments as insurance. Original preambles and 1992 change still need pinpointing. |
+
+### Administrative rulings — evidentiary status
+
+**Rev. Rul. 74-145 (1974-1 C.B. 113):** The more-than-50% threshold is **verified as quoted and analyzed by the Eighth Circuit in [*Nelson*](https://ecf.ca8.uscourts.gov/opndir/09/06/082912P.pdf)** and reflected in [IRS Publication 225](https://www.irs.gov/publications/p225). The original 1974 Internal Revenue Bulletin/Cumulative Bulletin text has **not** been directly retrieved; classify the original ruling as **identified / indirectly verified**, not directly inspected.
+
+**Notice 89-55 (1989-1 C.B. 696):** [Iowa State's Center for Agricultural Law and Taxation](https://www.calt.iastate.edu/post/special-rule-taxing-crop-insurance-and-disaster-payments) attributes an actual physical-crop-loss requirement to the notice. Current [IRS Publication 225](https://www.irs.gov/publications/p225) independently provides current operational guidance distinguishing physical yield loss from price-only and rainfall-index indemnities. **The original Notice has not been directly retrieved**, so its precise wording and historical reach remain open. Do not cite secondary summaries as direct proof of its text.
+
+### Observed use: what IRS SOI actually shows
+
+[IRS Publication 4801 (Rev. June 2026), 2023 Schedule F](https://www.irs.gov/pub/irs-pdf/p4801.pdf), states that all figures are **estimates based on samples**. The returns table reports:
+
+- **1,825,685** total Schedule F schedules filed (not necessarily unique farmers).
+- **154,820** schedules with a reported Line 6a crop-insurance/disaster-payment receipt.
+- **18,540** schedules with a reported **Line 6d** amount deferred from 2022 (recognized in 2023).
+
+The corresponding amounts table reports:
+
+- Line 6a receipts: **$9,106,009 thousand** (~$9.106 billion).
+- Line 6b taxable current-year amount: **$7,635,258 thousand** (~$7.635 billion).
+- Line 6d prior-year deferred amount included in 2023: **$1,761,329 thousand** (~$1.761 billion).
+
+[IRS Schedule F instructions](https://www.irs.gov/instructions/i1040sf) explain: 6a is total proceeds received in the tax year, 6b is taxable amount from that year's receipts, 6c is the **checkbox for an election to defer to next year**, and 6d reports **amounts received in the preceding year and elected for inclusion this year**.
+
+**Interpretation (qualified):** Line 6d offers a directly relevant observed *reporting* proxy for the population recognizing prior-year deferrals, and a dollar estimate of that income recognized in 2023. It is **not** an estimate of § 451(f) elections newly made in 2023, unique taxpayer counts, nationwide coverage across all entity forms, tax savings, or the tax expenditure. The IRS public table displays a checkbox for 6c but does **not** provide a numeric 6c count in that table. The simple difference 6a–6b (~$1.471 billion) is a possible *reconciliation lead*, **not** a verified amount elected under § 451(f); do not publish it as utilization without methodological validation.
+
+**Still open:** exact 2020/2021 IRS figures in Gemini; whether IRS has a more specific 6c checkbox tabulation; corporation/partnership coverage; amendment effects; confidence intervals; and whether the 2023 line 6d figure includes any filing categories that require qualification.
+
+### Fiscal effect: official reporting search
+
+**JCT:** [*Estimates of Federal Tax Expenditures for Fiscal Years 2025–2029*, JCX-45-25 (Dec. 3, 2025)](https://www.jct.gov/getattachment/8c830c45-1680-4f7e-a649-2a0106f6b6e3/x-45-25.pdf), Table 1, agriculture category (report p. 36 / PDF p. 38), **does not separately list § 451(f)**. It lists agricultural net-operating-loss carryback, soil/water conservation, fertilizer, and farm income averaging instead. JCT introduction, report p. 2, explains that a provision is generally listed if its five-year revenue loss is **not de minimis**; for this report the de minimis threshold is **less than $250 million over 2025–2029**. Absence from the table does **not** establish zero fiscal effect, nor prove that § 451(f) is below threshold (classification and aggregation decisions also matter).
+
+**Treasury:** [Tax Expenditures and FAQ](https://home.treasury.gov/policy-issues/tax-policy/tax-expenditures) defines tax expenditures to include deferrals and distinguishes annual revenue effects from present-value effects. Treasury warns that a repeal estimate is not interchangeable with tax expenditure estimates and timing provisions can show negative annual values. Its landing page lists FY2027 and prior spreadsheets, but a specific § 451(f) figure **has not yet been verified from those spreadsheets**.
+
+**Current disposition:** **No separately identified official § 451(f) fiscal estimate verified in the sources examined.** Do not assert “revenue-neutral,” zero cost, or a numeric revenue loss. A further Treasury spreadsheet check and older JCT search would strengthen this negative finding.
+
+### Updated remaining work (priority)
+
+1. Retrieve Senate Report 91-552 original pp. 106–107 and JCT JCS-33-76 1976 discussion using an accessible scan; mark provenance of the original passages.
+2. Retrieve original Rev. Rul. 74-145 and Notice 89-55; compare exact language with *Nelson* and current Pub. 225.
+3. Verify the Treasury FY2027/FY2026 workbook contents for any separate crop-insurance-deferral line; examine historic JCT reports if practical.
+4. Determine whether IRS can provide a count of Schedule F line 6c elections, and reconcile 6a/6b/6d with line definitions.
+5. Audit Gemini's 2020/2021 statistics and assess non-Schedule-F coverage before finalizing observed use.
