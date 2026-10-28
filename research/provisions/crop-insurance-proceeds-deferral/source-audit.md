@@ -125,3 +125,23 @@ The corresponding amounts table reports:
 3. Verify the Treasury FY2027/FY2026 workbook contents for any separate crop-insurance-deferral line; examine historic JCT reports if practical.
 4. Determine whether IRS can provide a count of Schedule F line 6c elections, and reconcile 6a/6b/6d with line definitions.
 5. Audit Gemini's 2020/2021 statistics and assess non-Schedule-F coverage before finalizing observed use.
+
+## Direct verification: Senate Finance Committee Report No. 91-552 (1969)
+
+**Source:** U.S. Senate Committee on Finance, *Tax Reform Act of 1969*, S. Rep. No. 91-552 (1969), **printed pp. 106–107** (PDF pp. 112–113 of the 358-page scan), section **“7. Crop Insurance Proceeds (sec. 215 of the bill and sec. 451 of the code)”**. [Official Senate Finance Committee scan](https://www.finance.senate.gov/download/tax-reform-act-of-1969-report-91-552).
+
+**Verification status: DIRECTLY INSPECTED.** The complete Senate report supplied for the audit was searched, and the two relevant pages were extracted and checked against the text. This replaces the earlier “located but not directly inspected” qualification for S. Rep. 91-552; the earlier qualification is retained above as a record of audit progress.
+
+| Committee section / page | Directly supported finding | Evidence classification |
+|---|---|---|
+| “Present law,” p. 106 | A cash-method farmer generally recognized crop-insurance proceeds in the year received, even where ordinary crop marketing occurred in a later year. | Contemporaneous committee description of pre-enactment law. |
+| “General reasons for change,” pp. 106–107 | A casualty such as hail or windstorm could cause the farmer to report prior-year crop-sale receipts **and** current-year crop-insurance receipts in the same year, creating an income-bunching hardship beyond the farmer's control. | **Express congressional committee rationale**, not an inferred motive. |
+| “General reasons for change,” p. 107 | A later-year net operating loss carryback was considered inadequate because the farmer first had to pay additional current-year tax and seek a refund after the next year's loss; the committee also cited possible loss of personal exemptions and standard or itemized deductions. | **Express committee rationale**. The cash-flow concern is distinct from ultimate tax liability. |
+| “Explanation of provision,” p. 107 | A cash-method taxpayer could elect next-year recognition if ordinary practice would have reported crop income in that later year; delivery records could establish customary practice. | Committee's explanation of intended operation; enacted statute and regulations govern the actual legal rule. |
+| “Effective date,” p. 107 | Provision to apply to taxable years ending after enactment. | Committee explanation; independently check enacted effective-date language. |
+| “8. Revenue Effect,” p. 107 | **$25 million annual revenue increase** estimated for **“the farm loss provisions of the bill”** as a group. | **Not a § 451 crop-insurance-deferral-specific fiscal estimate.** Do not attribute this figure to the provision. |
+
+**Provenance:** Printed pages 106–107 are located at PDF pages 112–113 (1-based) in the original 358-page Senate report scan. The authoritative citation should identify the **printed page numbers**. This audit record cites the official complete source rather than implying the two-page extract has been committed to the repository.
+
+**Source preservation follow-up:** Add a two-page PDF extract to `research/sources/senate-report-91-552-pages-106-107.pdf` when a binary-file GitHub upload path is available; the GitHub connector currently available for this commit accepts UTF-8 text, not PDF bytes. Until then the official full-report URL above is the canonical source.
+
