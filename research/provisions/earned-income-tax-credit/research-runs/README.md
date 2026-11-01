@@ -1,15 +1,18 @@
-# EITC (§32) — research run manifests
+# EITC (§32) — independent research run manifests
 
-Related: [Provision 2 issue](https://github.com/mattyplo/provision-project/issues/29) and [AI comparison issue](https://github.com/mattyplo/provision-project/issues/9).
+Related: [Provision 2](https://github.com/mattyplo/provision-project/issues/29), [AI comparison](https://github.com/mattyplo/provision-project/issues/9).
 
-Create **one manifest per independent platform run** using [the shared template](../../../templates/research-run-manifest.md). Save the exact submitted prompt as a separate UTF-8 file alongside each manifest, including any provision-specific substitutions and wrapper instructions. Preserve original research reports without editing.
+The canonical, platform-agnostic schema is [research-run-manifest.schema.json](../../../templates/research-run-manifest.schema.json). Maintain **one JSON manifest per individual run**, not one per platform template. `platform.settings` accepts provider-specific options without altering shared fields. Schema version is explicit; older records must not be silently reinterpreted.
 
-Suggested filenames:
-- `eitc-chatgpt-YYYYMMDD-01-manifest.md`
-- `eitc-chatgpt-YYYYMMDD-01-prompt.md`
-- `eitc-gemini-YYYYMMDD-01-manifest.md`
-- `eitc-gemini-YYYYMMDD-01-prompt.md`
+The two `*-planned-01-manifest.json` files are **planning stubs, not completed runs**. Before each run, record the actual model/mode/settings, version and commit of the reusable prompt, and save the **verbatim submitted prompt** (including substitutions and wrapper text) to a sibling `*-prompt.md`. Use a new run ID for every rerun. Immediately afterward, record timestamps, raw unedited output path, inaccessible sources, manual retrievals, and approximate time spent. Use `null` for unavailable or not-yet-known values; don't infer model IDs.
 
-**No EITC Deep Research run is represented as completed by this scaffolding.** Fill run settings and timestamps contemporaneously when each run is actually performed. Do not invent exposed model identifiers. Record any source retrieval failures and manual interventions so the next retrospective can measure friction.
+Suggested executed filename: `eitc-<platform>-YYYYMMDD-01-manifest.json` (and corresponding `-prompt.md` and raw report). Do not rename a planning stub into a completed run without updating its run ID and populating actual provenance.
 
-Workflow: (1) copy template; (2) record run ID and intended settings; (3) save verbatim submitted prompt; (4) run independently; (5) immediately record actual execution details and report location; (6) preserve raw output; (7) separately compare, verify and audit claims.
+Validate from repository root with:
+
+```sh
+python -m pip install jsonschema
+python scripts/validate_research_manifests.py
+```
+
+Validation checks structure and basic completion requirements, **not** truth of research claims or whether cited sources were inspected. Source/claim verification remains a separate human-reviewed workflow (Improvement #2).
