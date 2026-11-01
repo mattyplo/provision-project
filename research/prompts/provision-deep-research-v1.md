@@ -1,6 +1,6 @@
 # Provision Project — Standard Deep Research Prompt
 
-**Prompt version:** 1.0  
+**Prompt version:** 1.1  
 **Purpose:** Source-backed research into a provision of the U.S. federal tax code  
 **Project:** The Provision Project  
 **Research mode:** Deep Research
@@ -685,6 +685,12 @@ Report the following where available:
 Do not guess the model identifier or platform settings.
 
 Mark unavailable metadata as **Not exposed / not available**.
+
+### Draft research-run manifest
+
+Alongside Appendix C, produce a **draft** using the field names and sections of `research/templates/research-run-manifest.md` (the template must be supplied verbatim in the submitted prompt or as an accessible attachment). Populate only information available to you. Record sources you could not access and any limitations you encountered. Clearly label information as **agent-reported**, **provided by the operator**, or **not available**. Do not invent a Git commit SHA, the exact submitted prompt, model IDs, start/end timestamps, file paths, or platform settings. Use `Not recorded` or `Not exposed` where appropriate.
+
+The draft is **not** the authoritative execution log: the operator or orchestration environment must preserve the complete submitted prompt (including these instructions), raw unedited output, and externally observed settings/timestamps, and then reconcile the manifest. Do not claim that you created files in the repository unless you actually did.
 
 The project will separately preserve the exact submitted prompt and run metadata.
 
