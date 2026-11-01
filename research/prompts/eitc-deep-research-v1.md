@@ -362,7 +362,7 @@ These are not interchangeable.
 
 If no reliable utilization data are located, document the sources searched and explain the remaining evidence gap.
 
-Do not estimate utilization from unrelated agricultural statistics without clearly labeling and justifying the inference.
+Do not infer EITC take-up or claim counts from poverty, employment, or eligibility statistics without clearly labeling and justifying the inference.
 
 ### 3.8 Direct Tax Benefit
 
