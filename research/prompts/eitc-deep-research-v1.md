@@ -48,6 +48,7 @@ An explicit finding of **Unknown** is preferable to an unsupported conclusion.
 - Trace the **original enactment in the 1970s** and investigate contemporaneous rationales (including payroll-tax relief, work incentives, and income support) without presuming any one rationale is definitive. Verify statutory origin and later expansions against primary sources.
 - Provide an intelligible, dated explanation of the **phase-in, maximum-credit plateau, and phase-out**; distinguish tax year 2026 parameters from earlier years and from the publication dates of IRS data.
 - Investigate **2025–2026 enacted changes** where relevant. Distinguish enacted, operative, future-effective, and transitional rules using statutory effective-date provisions, rather than relying on undated summaries.
+- Build a **tax-year applicability matrix** for material EITC rules as of the October 31, 2026 snapshot. For each rule, identify the specific statutory/administrative authority, enactment and effective dates, operative tax year(s), transition or expiration, and whether it is operative, enacted-but-future-effective, or historical as of the snapshot. Include the relevant annual inflation-adjusted thresholds and their dated IRS authority; do not infer tax-year parameters from the filing season or data publication date.
 - Examine qualifying children, taxpayers without qualifying children, earned and investment income, filing status, residency, identification rules, refundability, disallowance, and compliance administration. Verify the governing Code/regulatory provisions.
 - For observed use, separate **claims filed, claims allowed, number of taxpayers, credit dollars, refunds/outlays, take-up estimates, and improper-payment estimates**. Identify tax year versus fiscal year, denominators, revisions, and measurement uncertainty.
 - For fiscal effects, search JCT and Treasury tax expenditure publications, CBO and federal budget materials; distinguish estimates of revenue loss, outlays, and the revenue effect of hypothetical policy changes.
@@ -221,6 +222,13 @@ Explain:
 
 Provide statutory subsection citations and authoritative support for material timing rules.
 
+**Required EITC law-and-tax-year applicability matrix:** Present at least the material eligibility requirements, credit schedule/phase-in and phase-out parameters, investment-income threshold, qualifying-child/childless-worker rules, identification requirements, and any material recent changes. Use the following columns:
+
+| Rule / parameter | Governing authority and pinpoint | Enactment / issuance date | Effective date and operative tax year(s) | Status as of October 31, 2026 | 2026 tax-year amount or treatment (with source) | Expiration / transition / caveat |
+|---|---|---|---|---|---|---|
+
+Where no distinct 2026 parameter exists, say so rather than inventing a value. Verify all amounts against dated statutory or official IRS material. Clearly distinguish **tax year**, **filing season/calendar year**, **fiscal year**, and **publication date**; a return filed in 2026 may report tax year 2025. Include enacted-but-not-yet-operative and superseded future-effective provisions when material, with their precise dates and status. Do not blend tax-year regimes in a single illustrative computation.
+
 Where material, distinguish the statute from administrative interpretation and judicial construction.
 
 ### 3.3 Legal Eligibility
@@ -364,6 +372,8 @@ If no reliable utilization data are located, document the sources searched and e
 
 Do not infer EITC take-up or claim counts from poverty, employment, or eligibility statistics without clearly labeling and justifying the inference.
 
+**Compliance and improper-payment measurements:** For each estimate of improper payments, overclaims, underclaims, errors, or fraud, record the agency's definition, population, numerator and denominator, tax/fiscal year, methodology, uncertainty, and whether the measure covers claims filed, allowed, paid, or audited. Separate inadvertent error, legal ineligibility, missing substantiation, and intentional misconduct where the evidence permits. **An improper-payment estimate is not, by itself, a measure of intentional fraud.** Do not silently turn an estimated error rate into an estimate of fraudulent taxpayers.
+
 ### 3.8 Direct Tax Benefit
 
 Identify who receives the immediate tax treatment.
@@ -378,6 +388,8 @@ Explain:
 Distinguish nonrefundable tax liability offsets from refundable credit payments, and distinguish statutory credit amounts from realized after-tax gains.
 
 Do not assume total credits claimed equal tax expenditures, program outlays, or ultimate economic gains.
+
+When reporting actual credits, distinguish claims filed, credits allowed, refunds disbursed, offsets against liability, and the amount ultimately retained after adjustments where ascertainable. Label unavailable components rather than treating total credits claimed as a proxy for fiscal cost.
 
 Do not equate the direct tax recipient with the ultimate economic beneficiary.
 
@@ -396,6 +408,10 @@ Look for credible empirical or theoretical research examining:
 - Other plausible channels supported by evidence.
 
 Do not assume these effects exist merely because they are economically plausible.
+
+For relevant studies, report:
+
+**Classify each substantive economic finding** as (a) descriptive association, (b) causally identified estimate, (c) theoretical or simulated prediction, or (d) project extrapolation/inference. For causal studies, specify the identification strategy and its key assumptions; discuss credible threats and external validity. Distinguish participation (extensive margin), hours/intensity (intensive margin), wages, employer capture, and within-household outcomes. An estimate identifying one margin, population, or historical EITC regime does not establish nationwide incidence or a universal effect.
 
 For relevant studies, report:
 
@@ -471,6 +487,13 @@ Distinguish:
 Do not assume a tax expenditure estimate equals the revenue Congress would raise by repealing the provision.
 
 For this refundable credit, investigate how tax expenditure and outlay components are recorded, including differences among JCT, Treasury, IRS, and budget presentations.
+
+**Required fiscal measurement and reconciliation table (P1):** Assemble a **year-aligned** comparison wherever source data permit. At minimum, investigate and separately report: (1) IRS credits claimed, (2) credits allowed or paid, (3) the nonrefundable tax-liability-offset / revenue-reduction component, (4) refundable payments / federal outlay component, and (5) JCT, Treasury, or CBO tax-expenditure and other fiscal estimates. For each row, identify the amount, currency units, observation or estimate status, source and pinpoint, **tax year versus fiscal year**, publication date, accounting definition, baseline, estimation convention, and relevant caveats. Show what can and cannot be reconciled, including timing, revisions, differences in covered populations, and estimation methodologies. Use **Not available / not comparable** explicitly when appropriate. Do not force a numerical reconciliation when official data do not permit one.
+
+| Component / measure | Amount and units | Tax year or fiscal year | Observed or estimated | Publication and pinpoint | Definition / baseline / timing | Reconciliation and limits |
+|---|---|---|---|---|---|---|
+
+**Do not sum, compare as equivalent, or infer a repeal revenue gain from figures based on different accounting frameworks, year conventions, or baselines without documenting why that operation is valid.** Explain how the refundable outlay portion is treated in the official source and whether a quoted tax-expenditure total includes it; do not double-count it.
 
 If no separately identifiable official estimate exists, explain that finding and document the search.
 
@@ -566,6 +589,8 @@ Preserve source provenance and distinguish it from the source's relationship to 
 Identify sources that were directly examined and those that remain research leads.
 
 A bibliography alone is insufficient.
+
+Use **stable, provision-scoped claim IDs**, e.g., `EITC-C001`, `EITC-C002`, assigned to atomic consequential claims and reused consistently across the report, source map, and subsequent audit. Each source entry should have its own source ID; a claim may have multiple supporting or contradicting sources. Distinguish (1) whether the underlying source was actually inspected, (2) the source-to-claim relationship, (3) the research agent's **preliminary** citation/claim check, and (4) the **separate, later independent project audit**. The agent must not mark a claim as independently audited. Retain uncertainty and unavailable verification as explicit statuses.
 
 ### 3.15 Project Inferences
 
@@ -698,6 +723,8 @@ Do not guess the model identifier or platform settings.
 Mark unavailable metadata as **Not exposed / not available**.
 
 The project will separately preserve the exact submitted prompt and run metadata.
+
+For cross-platform comparisons, note any provider-specific wrapper, attached material, browsing/source restrictions, or settings that differ between runs. Preserve the same substantive research assignment across platforms; record differences rather than silently normalizing or concealing them. Report an unavailable setting as **Not exposed / not available**, not a guess.
 
 ### Appendix D — Potential Methodology Improvements
 
