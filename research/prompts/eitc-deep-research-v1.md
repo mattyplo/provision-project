@@ -409,8 +409,6 @@ Look for credible empirical or theoretical research examining:
 
 Do not assume these effects exist merely because they are economically plausible.
 
-For relevant studies, report:
-
 **Classify each substantive economic finding** as (a) descriptive association, (b) causally identified estimate, (c) theoretical or simulated prediction, or (d) project extrapolation/inference. For causal studies, specify the identification strategy and its key assumptions; discuss credible threats and external validity. Distinguish participation (extensive margin), hours/intensity (intensive margin), wages, employer capture, and within-household outcomes. An estimate identifying one margin, population, or historical EITC regime does not establish nationwide incidence or a universal effect.
 
 For relevant studies, report:
@@ -488,7 +486,7 @@ Do not assume a tax expenditure estimate equals the revenue Congress would raise
 
 For this refundable credit, investigate how tax expenditure and outlay components are recorded, including differences among JCT, Treasury, IRS, and budget presentations.
 
-**Required fiscal measurement and reconciliation table (P1):** Assemble a **year-aligned** comparison wherever source data permit. At minimum, investigate and separately report: (1) IRS credits claimed, (2) credits allowed or paid, (3) the nonrefundable tax-liability-offset / revenue-reduction component, (4) refundable payments / federal outlay component, and (5) JCT, Treasury, or CBO tax-expenditure and other fiscal estimates. For each row, identify the amount, currency units, observation or estimate status, source and pinpoint, **tax year versus fiscal year**, publication date, accounting definition, baseline, estimation convention, and relevant caveats. Show what can and cannot be reconciled, including timing, revisions, differences in covered populations, and estimation methodologies. Use **Not available / not comparable** explicitly when appropriate. Do not force a numerical reconciliation when official data do not permit one.
+**Required fiscal measurement and reconciliation table:** Assemble a **year-aligned** comparison wherever source data permit. At minimum, investigate and separately report: (1) IRS credits claimed, (2) credits allowed or paid, (3) the nonrefundable tax-liability-offset / revenue-reduction component, (4) refundable payments / federal outlay component, and (5) JCT, Treasury, or CBO tax-expenditure and other fiscal estimates. For each row, identify the amount, currency units, observation or estimate status, source and pinpoint, **tax year versus fiscal year**, publication date, accounting definition, baseline, estimation convention, and relevant caveats. Show what can and cannot be reconciled, including timing, revisions, differences in covered populations, and estimation methodologies. Use **Not available / not comparable** explicitly when appropriate. Do not force a numerical reconciliation when official data do not permit one.
 
 | Component / measure | Amount and units | Tax year or fiscal year | Observed or estimated | Publication and pinpoint | Definition / baseline / timing | Reconciliation and limits |
 |---|---|---|---|---|---|---|
