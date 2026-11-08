@@ -9,7 +9,7 @@
 - Platform / product: https://ask-chat.ai/ (operator-reported)
 - Research mode: User submitted the EITC Deep Research prompt; actual platform research mode `Not exposed`
 - Model or model-selection setting: **“Gemiini 4 aragon”** (operator-reported selected display label; exact spelling, model identity and backend not independently verified)
-- Status: **interrupted / incomplete** (operator-confirmed; not a successful completion)
+- Status: `failed` — **interrupted / incomplete** (operator-confirmed). Uses the template's standard status value, while recording the more specific outcome and unknown technical cause.
 
 ## Prompt provenance
 - Reusable prompt path and version: [`research/prompts/eitc-deep-research-v1.md`](../../../prompts/eitc-deep-research-v1.md), EITC 1.0. **Audited against current repository prompt:** the extracted text matches the canonical prompt content, except for **one additional trailing newline in the repository version**. This comparison does not establish the exact commit or platform-side acceptance at execution.
