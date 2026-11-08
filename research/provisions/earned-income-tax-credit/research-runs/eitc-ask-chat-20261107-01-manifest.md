@@ -12,7 +12,7 @@
 - Status: **interrupted / incomplete** (operator-confirmed; not a successful completion)
 
 ## Prompt provenance
-- Reusable prompt path and version: `research/prompts/eitc-deep-research-v1.md`, EITC 1.0, as named in the provided export; repository equivalence not independently checked for this run
+- Reusable prompt path and version: [`research/prompts/eitc-deep-research-v1.md`](../../../prompts/eitc-deep-research-v1.md), EITC 1.0. **Audited against current repository prompt:** the extracted text matches the canonical prompt content, except for **one additional trailing newline in the repository version**. This comparison does not establish the exact commit or platform-side acceptance at execution.
 - Prompt Git commit SHA: `Not recorded`
 - Exact submitted prompt file: [`eitc-ask-chat-20261107-01-prompt.md`](eitc-ask-chat-20261107-01-prompt.md) (extracted from the complete exported transcript; not independently verified against platform input history)
 - Prompt capture: `Retrospective` (from export)
@@ -37,9 +37,10 @@
 - Do not mistake the **interruption** for lack of relevant evidence; ungenerated sections were not researched in the visible output.
 - The report's generated citations and claims require a separate independent source audit.
 - Keep the original transcript unchanged; annotate limitations in this manifest and any comparison rather than editing the historical output.
+
 ## Integrity and comparability
 - The original uploaded `provision-project-eitc-32-deep-r.txt` and the `transcript.md` conversion were confirmed byte-identical locally (SHA-256: `2863d08d31df76c9c66567aa5de04edc693019ef88ff9ce9071475b1bd7ecf7a`). The extension changed from `.txt` to `.md`; its contents did not.
-- The separate prompt and partial-response files are **derived extracts** of that export. They are intended for convenience; the complete transcript is authoritative for what was received.
+- The separate prompt and partial-response files are **derived extracts** of that export. They are intended for convenience; the complete transcript is authoritative for what was received. **Reconstruction check passed:** the complete transcript equals the exact string `You: ` + extracted prompt + `\nAsk-Chat: ` + extracted partial response.
 - This submission does not establish that every phrase of the prompt was accepted by the remote provider, nor that it executed the requested research mode. It only records the visible exported transcript and operator account.
 - The run was **interrupted in the middle of generation**; the exact technical reason for interruption is **not known**. Do not call it a provider error, timeout, or safety refusal without supporting evidence.
 - A true like-for-like comparison against completed ChatGPT/Gemini research requires separately labeling this run **incomplete** and avoiding quantitative completeness/ranking claims based on missing sections.
