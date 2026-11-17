@@ -67,3 +67,7 @@ Opened IRS [Publication 596 (2025)](https://www.irs.gov/publications/p596), incl
 
 ## Empirical robustness tables (2026-11-16)
 Directly opened Rothstein 2010 supplemental appendix (3 pp), Leigh 2010 IZA full paper (45 pp), HMS 2015 journal full paper (40 pp), Dench/Joyce manuscript (26 pp). Inspected Rothstein Appendix B elasticity reversal, Leigh Table 4 and §4.4 composition bound, HMS Table 3 race/parity estimates, Dench/Joyce Table 2 parity placebos. NBER and ScienceDirect full-paper pages unavailable; employment full robustness table review remains open. **No original regressions rerun or datasets downloaded.** [Audit](empirical-robustness-tables.md).
+
+
+## Employment published tables (2026-11-16)
+Read [Eissa/Liebman published QJE full text](https://faculty.georgetown.edu/noe/qje_596.pdf) Tables III–IV; [Schanzenbach/Strain 2021 published 43-page PDF](https://www.journals.uchicago.edu/doi/epdf/10.1086/713494) Tables 3 and 5; [Kleven May 2024 author PDF](https://www.henrikkleven.com/uploads/3/7/3/1/37310663/kleven_eitc_may2024.pdf) Figure 8 and §§5.4–5.5. Directly inspected methodological reconciliation of Kleven (2019) in Schanzenbach/Strain 2021. Did **not** inspect all 432 appendix event studies, compare author version line-by-line to journal, or run microdata replication. [Audit](employment-robustness-audit.md).
