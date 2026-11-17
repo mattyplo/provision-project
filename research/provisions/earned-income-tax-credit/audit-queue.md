@@ -84,3 +84,7 @@
 
 ## C003 exception review — 2026-11-16
 [IRS Pub. 596 exception audit](eligibility-exceptions-audit.md) documents child-SSN/self-only distinction, qualifying-child tie-breakers, separated spouses, combat-pay election, clergy/self-employment, disability, Form 8862 and disallowance periods, and foreign-income rules. **Critical vintage caveat:** source is **2025 Publication 596**; it cannot by itself close a **TY2026** statutory/instructions audit. **C003 remains PARTIAL** pending 2026 crosswalk.
+
+
+## Empirical robustness table audit — 2026-11-16
+[Empirical robustness tables](empirical-robustness-tables.md) directly inspects **Rothstein supplemental Appendix B** (large income-effect elasticities **reverse** base-case net employer-capture direction), **Leigh Table 4 and §4.4** (child vs childless employment and composition bound), **HMS Table 3** and **Dench/Joyce Table 2** (subgroup concentration and parity placebo contrasts). These are **substantive robustness checks**, not independent replication. Employment published robustness tables **still open**; do not mark full empirical review complete.
