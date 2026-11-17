@@ -51,3 +51,7 @@ Directly compared NBER 2012 infant-health abstract with **2015 published article
 
 ## Final research-quality pass (2026-11-16)
 Read Eissa–Liebman NBER 1995 and **QJE 1996 published abstracts** and identified 1.4 pp vs up-to-2.8 pp version change and changed post-period. Read Schanzenbach–Strain 2021 published executive summary, Kleven 2024 published abstract, Hoynes/Miller/Simon 2015 publisher abstract, Dench/Joyce 2020 published abstract, and authors' 2019 response overview. Recorded competing findings without treating disagreement as reason to discard. **Not performed:** complete published-paper table-by-table review, independent robustness replication, exhaustive latest literature survey. See [research-quality-final-pass.md](research-quality-final-pass.md).
+
+
+## Eligibility/regulatory cross-check (2026-11-16)
+Read IRS eligibility guide, 2026 EITC income/credit table, draft Schedule 3-A, original 91 FR 53812 proposal, 91 FR 64631 hearing cancellation and Oct. 26 CRS analysis. Targeted REG-119882-25/RIN search did not locate final rule; did not complete exhaustive Federal Register docket sweep. Identified potential 2026 form/guidance vs proposed-rule ambiguity; documented rather than resolving speculatively. See [eligibility-regulatory-quality-check.md](eligibility-regulatory-quality-check.md).
