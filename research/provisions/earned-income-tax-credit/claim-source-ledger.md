@@ -36,3 +36,7 @@ The prior C013 entry and follow-up cited **2012 NBER W18206's 6.7–10.8%** esti
 
 ## Final quality pass — C011 version correction and retention policy
 **C011:** [Eissa–Liebman 1995 NBER abstract](https://www.nber.org/papers/w5158) reports **+1.4 pp** (1988–89 post period); [1996 QJE published abstract](https://academic.oup.com/qje/article-abstract/111/2/605/1938452) reports **up to +2.8 pp** (1988–90 post period). The earlier ledger's 1.4 pp is not the published headline estimate. Retain **both versions**, and retain [Schanzenbach–Strain 2021](https://www.journals.uchicago.edu/doi/epdf/10.1086/713494) and [Kleven 2024](https://www.sciencedirect.com/science/article/pii/S0047272724000719) as **distinct, contrasting employment findings**. Do not treat lack of consensus as grounds for omission. [Full publication guidance](research-quality-final-pass.md).
+
+
+## C003 and C014 follow-up — 2026-11-16
+[C003 2026 eligibility matrix](eligibility-regulatory-quality-check.md): basic requirements, 2026 thresholds and separated-spouse exception checked against IRS guidance; child tie-breakers, military/clergy and prior-disallowance edge cases remain **PARTIAL**. [C014 regulatory check](eligibility-regulatory-quality-check.md): August proposal and October hearing cancellation confirmed; targeted search found no final rule by Oct. 31, **not an exhaustive negative**. IRS page's 2026 Schedule 3-A reference and draft 'DO NOT FILE' form require separate verification; a draft form does not itself enact a rule.
