@@ -46,3 +46,7 @@ The [Office of Law Revision Counsel §32 historical amendment and effective-date
 | 2021 other EITC changes | P.L. 117-2 §§9622, 9623, 9624 | §§9622(b), 9623(c), 9624(c): taxable years beginning **after Dec. 31, 2020** | OLRC cross-reference verified; some changes permanent, unlike §32(n) |
 
 **1984 and 1975–77 extension laws:** exact enacted subsections and applicability still need source inspection; retain earlier synthesis-only label. **2026 law cutoff:** OLRC §32 version explicitly only through P.L. 119-124 (Oct. 15), so **not closed** for Oct. 16–31. Do not equate 'no later amendment note visible' with a complete enacted-acts sweep.
+
+
+## Bounded statutory follow-up
+See [bounded-statutory-audit.md](bounded-statutory-audit.md) for **enacted-text** pinpoints P.L. 94-164 §2(f), P.L. 94-455 §401(c)(1), P.L. 95-30 §103(b), and P.L. 98-369 §§471(c), 1042(a),(b),(d),(e). This supersedes the earlier '1975–77 extensions / 1984: synthesis only' statuses. Oct. 16–31, 2026 official law enumeration identifies P.L. 119-125–136; no direct §32 amendment identified, but 11 acts not individually full-text checked, so direct-law negative finding is **qualified**.
