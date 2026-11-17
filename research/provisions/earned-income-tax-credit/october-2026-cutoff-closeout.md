@@ -27,3 +27,16 @@
 
 ### Release gate
 The narrower legal statement is appropriate: “No direct §32 amendment was found in laws enacted October 16–31, 2026; eleven of twelve enacted texts were read directly, and the remaining act was checked against official codified operative text and GPO classification.” If the project requires **literal full-text inspection of every slip law**, retrieve P.L. 119-131 before checking that gate. Do not quietly re-label an 11/12 inspection as 12/12.
+
+
+## Final law retrieved and inspected — 2026-11-16
+**P.L. 119-131 / H.R. 4307: FULL ENROLLED TEXT independently inspected.** The GPO public-law slip PDF/HTML endpoint did not return accessible text, but the GPO-published **[H.R. 4307 enrolled bill (ENR), full text, lines 0–108](https://www.govinfo.gov/content/pkg/BILLS-119hr4307enr/html/BILLS-119hr4307enr.htm)** was retrieved and inspected in full. The [GPO public-law record](https://www.govinfo.gov/app/details/PLAW-119publ131) identifies H.R. 4307 as enacted P.L. 119-131 on Oct. 20, 2026; [OLRC 29 USC §570](https://uscode.house.gov/us/usc/119-134/t29/s570/) corroborates §3 and reproduces §§2 and 4 as statutory notes.
+
+- **§1 (enrolled lines 30–32):** short title.
+- **§2 (lines 33–36):** definition by cross-reference to 22 USC §7102(11).
+- **§3 (lines 37–84):** Department of Labor training/continuing education on identifying and referring human trafficking cases; includes reference to 29 USC §203(l), **not** 26 USC §32.
+- **§4 (lines 85–103):** annual reporting to congressional committees about training and referrals.
+
+**Result:** All **four sections of the full enrolled enacted text** have been read. There is **no amendment to 26 USC §32, no express EITC change, and no EITC applicability provision**. This closes the *substantive enacted-text* inspection of the twelfth law. The **literal slip-law-form PDF** was not obtained, so provenance must identify this as the **GPO enrolled text**, corroborated by the GPO public-law record and OLRC codification, not falsely call it a retrieved slip law.
+
+**Updated legal-cutoff disposition: CLOSED for direct §32 amendments** as of Oct. 31, 2026: twelve of twelve enactments inspected via official enacted slip-law texts (11) or complete enrolled text plus enacted-law/codification cross-check (1). **Outside scope:** indirect interactions with other tax rules and all post-Oct. 31 changes. Supersedes the earlier 11/12 limitation above.
