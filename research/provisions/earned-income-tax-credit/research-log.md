@@ -47,3 +47,7 @@ GPO P.L. 119-131 slip-law HTML/PDF direct endpoints failed, so retrieved and ins
 
 ## Empirical reconciliation (2026-11-16)
 Directly compared NBER 2012 infant-health abstract with **2015 published article** and found a material numerical change (6.7–10.8% vs published 1.6–2.9% relative). Read original published article's introduction and methods, Dench/Joyce 2020 published-paper manuscript, and Hoynes/Miller/Simon response. Logged design-specific dispute (preperiod, parity contrasts, placebo checks, confounding). Also checked Kleven 2024 journal abstract and Rothstein 2010 journal abstract for design/interpretation. No replication of underlying microdata or full table-by-table audit. See [empirical-reconciliation.md](empirical-reconciliation.md).
+
+
+## Final research-quality pass (2026-11-16)
+Read Eissa–Liebman NBER 1995 and **QJE 1996 published abstracts** and identified 1.4 pp vs up-to-2.8 pp version change and changed post-period. Read Schanzenbach–Strain 2021 published executive summary, Kleven 2024 published abstract, Hoynes/Miller/Simon 2015 publisher abstract, Dench/Joyce 2020 published abstract, and authors' 2019 response overview. Recorded competing findings without treating disagreement as reason to discard. **Not performed:** complete published-paper table-by-table review, independent robustness replication, exhaustive latest literature survey. See [research-quality-final-pass.md](research-quality-final-pass.md).
