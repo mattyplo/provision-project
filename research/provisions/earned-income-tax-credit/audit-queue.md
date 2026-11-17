@@ -68,3 +68,7 @@
 
 ## Empirical source-vintage correction — 2026-11-16
 **C013 / infant health: publication-critical correction.** Earlier audit reported **6.7–10.8%** from the 2012 NBER working-paper abstract. The **final 2015 journal paper** reports **1.6–2.9% relative (0.17–0.31 percentage points)** per $1,000 after-tax income for single low-education mothers. The causal claim is contested by Dench/Joyce (2020), with reply from original authors. [Evidence reconciliation](empirical-reconciliation.md). **Do not reuse the earlier number as the final publication estimate.** Employment/incidence estimates remain heterogeneous and do not yield a national beneficiary split.
+
+
+## Final research-quality pass (2026-11-16)
+**C011 material version correction:** Eissa–Liebman **1995 NBER** reports +1.4 pp (1988–89), whereas **1996 QJE published abstract** reports **up to +2.8 pp** (1988–90). Added Schanzenbach–Strain 2021's positive employment finding alongside Kleven 2024's skeptical reappraisal. **Retain all results with version/estimand metadata**. C013 already flagged analogous 2012-vs-2015 infant-health version difference. [Final quality pass](research-quality-final-pass.md). Remaining gates: eligibility edge cases, full robustness tables, potential regulatory final-rule sweep. No national incidence split certified.
