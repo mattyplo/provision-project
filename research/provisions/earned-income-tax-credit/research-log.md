@@ -55,3 +55,7 @@ Read Eissa–Liebman NBER 1995 and **QJE 1996 published abstracts** and identifi
 
 ## Eligibility/regulatory cross-check (2026-11-16)
 Read IRS eligibility guide, 2026 EITC income/credit table, draft Schedule 3-A, original 91 FR 53812 proposal, 91 FR 64631 hearing cancellation and Oct. 26 CRS analysis. Targeted REG-119882-25/RIN search did not locate final rule; did not complete exhaustive Federal Register docket sweep. Identified potential 2026 form/guidance vs proposed-rule ambiguity; documented rather than resolving speculatively. See [eligibility-regulatory-quality-check.md](eligibility-regulatory-quality-check.md).
+
+
+## PRWORA regulatory status follow-up (2026-11-16)
+Inspected full August 20 NPRM and proposed §1.32-4(g), Oct. 9 hearing cancellation, CRS Oct. 26 analysis, live IRS eligibility page and targeted REG-119882-25/RIN 1545-BS06/title search. Verified proposed applicability is conditional on **publication of final regulations**. Found no final rule by Oct. 31; recorded negative search limitation. **C014 qualified publication gate closed**; monitoring remains advisable. See [prwora-regulatory-status.md](prwora-regulatory-status.md).
