@@ -72,3 +72,7 @@
 
 ## Final research-quality pass (2026-11-16)
 **C011 material version correction:** Eissa–Liebman **1995 NBER** reports +1.4 pp (1988–89), whereas **1996 QJE published abstract** reports **up to +2.8 pp** (1988–90). Added Schanzenbach–Strain 2021's positive employment finding alongside Kleven 2024's skeptical reappraisal. **Retain all results with version/estimand metadata**. C013 already flagged analogous 2012-vs-2015 infant-health version difference. [Final quality pass](research-quality-final-pass.md). Remaining gates: eligibility edge cases, full robustness tables, potential regulatory final-rule sweep. No national incidence split certified.
+
+
+## Eligibility and rulemaking pass (2026-11-16)
+[Eligibility/regulatory check](eligibility-regulatory-quality-check.md) verifies 2026 IRS maxima, income limits, SSN/residency/age rules and separated-spouse exception, with named edge cases still open (**C003 remains partial**). **C014**: 91 FR 53812 proposed, 91 FR 64631 hearing cancellation only, CRS Oct. 26 still describes proposal; targeted final-rule search found none, **not an exhaustive negative certification**. **New issue:** IRS EITC page mentions possible 2026 Schedule 3-A and IRS hosts draft form marked DO NOT FILE; do not infer finalized law from a draft form.
