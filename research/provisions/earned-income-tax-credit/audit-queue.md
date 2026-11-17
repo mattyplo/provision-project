@@ -92,3 +92,7 @@
 
 ## Employment published-table audit (2026-11-16)
 **C011 upgraded:** [employment-robustness-audit.md](employment-robustness-audit.md) reviews **Eissa–Liebman QJE Tables III–IV**, **Schanzenbach–Strain 2021 Tables 3 and 5**, and **Kleven May 2024 Figure 8 and §5.5**. Schanzenbach–Strain explicitly reproduce Kleven (2019) estimates under his specification choices; they dispute preferred sample/outcome/controls. Kleven 2024's **432-specification grid** has non-1993 mean −0.32 pp and 1993 mean +4.02 pp. Retain all findings, distinguish pooled maximum-credit associations from actual payment effects. **No independent replication or full online appendix sweep.**
+
+
+## Publication record assembled — 2026-11-16
+[Provision record draft](provision-record-draft.md) now synthesizes verified mechanics, stated legislative purpose, major enactments, 2026 eligibility, observed use, JCT estimate, GAO administration, and **all competing employment/incidence/infant-health studies**. **Not a final publication sign-off**: C003 TY2026 exceptions remain partial; empirical replication not done; incidence allocation unknown; final editorial citation/pinpoint check remains. Archived model outputs unchanged.
