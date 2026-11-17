@@ -29,3 +29,20 @@
 **Government secondary cross-check:** [CRS R44825, *EITC: A Brief Legislative History*, pp. 3–8 and Table 1](https://www.congress.gov/crs_external_products/R/PDF/R44825/R44825.7.pdf); its chronology ends before 2021. For later current-law context see [CRS R43805 (Sept. 14, 2026)](https://www.everycrsreport.com/files/2026-09-14_R43805_fd723146b768486c85e0b203fc03e2f1bafb12b4.pdf), but secondary synthesis is **not** a substitute for statutory verification.
 
 **Unresolved:** individual statutory amendment sections and effective dates after 1978; full Oct. 16–31, 2026 enactment sweep. No assertion of exhaustive statutory history yet.
+
+
+## Statutory amendment pinpoints and effective dates — OLRC audit (2026-11-16)
+The [Office of Law Revision Counsel §32 historical amendment and effective-date notes](https://uscode.house.gov/us/usc/119-124/t26/s32/) directly identify these **specific enacted amendment provisions**. This upgrades statutory pinpoints and stated applicability dates, but does not by itself establish every historical policy consequence or the complete universe of indirect changes.
+
+| Milestone | Statutory pinpoint | Effective-date authority / date | Audit result |
+| --- | --- | --- | --- |
+| 1986 expansion | P.L. 99-514 §§104(b)(1)(B), 111(a)–(d)(1) | §151(a): taxable years beginning **after Dec. 31, 1986** | OLRC cross-reference verified |
+| 1990 family differentiation | P.L. 101-508 §11111 | §11111(f): taxable years beginning **after Dec. 31, 1990** | OLRC cross-reference verified |
+| 1993 expansion | P.L. 103-66 §13131 | §13131(e): taxable years beginning **after Dec. 31, 1993** | OLRC cross-reference verified |
+| 2001 EITC reforms | P.L. 107-16 §303 | §303(i): generally taxable years beginning **after Dec. 31, 2001**; §303(g) separately Jan. 1, 2004 | OLRC cross-reference verified; distinguish from §201(c)(3) effect after Dec. 31, 2000 |
+| 2009 expansion | P.L. 111-5 §1002 | §1002(b): taxable years beginning **after Dec. 31, 2008** | OLRC cross-reference verified |
+| 2015 changes | P.L. 114-113 div. Q §103 | §103(d): taxable years beginning **after Dec. 31, 2015** | OLRC cross-reference verified; separate permanence of earlier temporary enhancements requires underlying statute analysis |
+| 2021 childless-worker temporary expansion | P.L. 117-2 §9621(a) adds §32(n) | §9621(c): taxable years beginning **after Dec. 31, 2020**; §32(n) itself applies **before Jan. 1, 2022** | **Verified one-year 2021 window**, not permanent |
+| 2021 other EITC changes | P.L. 117-2 §§9622, 9623, 9624 | §§9622(b), 9623(c), 9624(c): taxable years beginning **after Dec. 31, 2020** | OLRC cross-reference verified; some changes permanent, unlike §32(n) |
+
+**1984 and 1975–77 extension laws:** exact enacted subsections and applicability still need source inspection; retain earlier synthesis-only label. **2026 law cutoff:** OLRC §32 version explicitly only through P.L. 119-124 (Oct. 15), so **not closed** for Oct. 16–31. Do not equate 'no later amendment note visible' with a complete enacted-acts sweep.
