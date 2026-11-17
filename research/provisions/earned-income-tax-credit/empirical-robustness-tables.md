@@ -36,3 +36,7 @@
 - **Infant health:** Original estimates replicate in some subgroup contrasts, but placebo comparisons and trends raise identification concerns. **Keep the result and the challenge**, do not declare causal certainty.
 
 **Remaining work:** inspect full published employment robustness tables where accessible; inspect authors' infant-health rejoinder line-by-line and other independent replications; independently execute published replication code/data only if a reproducibility exercise is separately authorized.
+
+
+## Employment-table follow-up (2026-11-16)
+The earlier statement that employment published robustness tables were inaccessible is **superseded in part**: full published PDFs of Eissa/Liebman 1996 and Schanzenbach/Strain 2021, and the author-hosted May 2024 Kleven full text, were located and selected tables inspected. See [employment-robustness-audit.md](employment-robustness-audit.md). **This is not full online-appendix or independent replication certification.**
