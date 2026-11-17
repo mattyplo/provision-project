@@ -44,3 +44,7 @@ The prior C013 entry and follow-up cited **2012 NBER W18206's 6.7–10.8%** esti
 
 ## C014 superseding status (2026-11-16)
 **C014: VERIFIED AS PROPOSAL, qualified negative final-rule finding, publication-ready with attribution.** [91 FR 53812](https://www.govinfo.gov/content/pkg/FR-2026-08-20/pdf/FR-2026-08-20.pdf) proposes §1.32-4; proposed subsection (g) applies only to tax years ending on/after *future final-rule publication*. [91 FR 64631](https://www.govinfo.gov/content/pkg/FR-2026-10-09/html/2026-20790.htm) cancels the hearing only. [CRS Oct. 26 IF13337](https://www.everycrsreport.com/files/2026-10-26_IF13337_099272ebae8f1285d1e07ab6aa1ffaf844d190d5.html) says no final timetable announced. No final rule located by Oct. 31 targeted docket/RIN search. **Not a categorical claim that an exhaustive index search proved absence.** [Detailed audit](prwora-regulatory-status.md).
+
+
+## C003 exception-level follow-up
+[IRS Pub. 596 (2025)](https://www.irs.gov/publications/p596), Rule 2, explicitly permits possible **self-only EIC** where an otherwise qualifying child lacks a valid SSN; that child cannot count toward a higher child-based credit. Rule 9 and introductory Reminders also allow self-only EIC where another claimant wins the qualifying-child tiebreaker. Reviewed special rules for separated spouses, military combat pay, clergy, disability and prior disallowance in [eligibility-exceptions-audit.md](eligibility-exceptions-audit.md). **2025 publication is not TY2026 verification; C003 still PARTIAL.**
