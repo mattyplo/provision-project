@@ -71,3 +71,7 @@ Directly opened Rothstein 2010 supplemental appendix (3 pp), Leigh 2010 IZA full
 
 ## Employment published tables (2026-11-16)
 Read [Eissa/Liebman published QJE full text](https://faculty.georgetown.edu/noe/qje_596.pdf) Tables III–IV; [Schanzenbach/Strain 2021 published 43-page PDF](https://www.journals.uchicago.edu/doi/epdf/10.1086/713494) Tables 3 and 5; [Kleven May 2024 author PDF](https://www.henrikkleven.com/uploads/3/7/3/1/37310663/kleven_eitc_may2024.pdf) Figure 8 and §§5.4–5.5. Directly inspected methodological reconciliation of Kleven (2019) in Schanzenbach/Strain 2021. Did **not** inspect all 432 appendix event studies, compare author version line-by-line to journal, or run microdata replication. [Audit](employment-robustness-audit.md).
+
+
+## Publication synthesis (2026-11-16)
+Created [provision-record-draft.md](provision-record-draft.md) using independently audited statutes/committee reports/IRS/JCT/GAO and the study-specific employment, wage-incidence and infant-health audits. Clearly labeled model simulation vs observational estimate, competing findings, source vintage, uncertainty and regulatory proposal status. No new claim of independent regression replication or exhaustive indirect-law sweep.
