@@ -80,3 +80,7 @@
 
 ## C014 regulatory ambiguity disposition — 2026-11-16
 **C014 CLOSED FOR QUALIFIED PUBLICATION**: [PRWORA regulatory-status audit](prwora-regulatory-status.md) confirms August 20 NPRM, October 9 *hearing-only* cancellation, Oct. 26 CRS confirmation that no final timetable had been announced, and proposed §1.32-4(g) applicability tied to *future publication of final regulations*. No final rule identified by Oct. 31 docket/RIN/title searches; do not overstate as exhaustive Federal Register API certification. IRS draft Schedule 3-A and live web guidance are not final-rule evidence. Monitor future finalization separately.
+
+
+## C003 exception review — 2026-11-16
+[IRS Pub. 596 exception audit](eligibility-exceptions-audit.md) documents child-SSN/self-only distinction, qualifying-child tie-breakers, separated spouses, combat-pay election, clergy/self-employment, disability, Form 8862 and disallowance periods, and foreign-income rules. **Critical vintage caveat:** source is **2025 Publication 596**; it cannot by itself close a **TY2026** statutory/instructions audit. **C003 remains PARTIAL** pending 2026 crosswalk.
