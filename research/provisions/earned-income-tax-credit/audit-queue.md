@@ -51,3 +51,8 @@
 - **C008 Qualified:** [IRS TY2022 participation table](https://www.irs.gov/tax-professionals/eitc-central/eitc-participation-rate-by-state) has **80.8% ACS-linked national row** but footnote 2 says **78% CPS-based national estimate**. Denominator and data linkage methodology matter.
 - **C013 Qualified Verified-as-reported:** [Hoynes/Miller/Simon W18206](https://www.nber.org/papers/w18206) finds 6.7–10.8% relative reduction in low birth weight per policy-induced $1,000 EITC increase among single low-education mothers. Original study has comment/reply; causal robustness remains a review item.
 - **A011/A012:** identification concerns and model-vs-empirical distinction expanded in [empirical-evidence-audit.md](empirical-evidence-audit.md). **No nationwide incidence allocation certified.**
+
+
+## Bounded statutory audit disposition — 2026-11-16
+- **A006: named 1975–77 and 1984 gaps closed.** [bounded-statutory-audit.md](bounded-statutory-audit.md) documents P.L. 94-164 §2(f), 94-455 §401(c)(1), 95-30 §103(b), 98-369 §§471(c), 1042(e) with original statutory pinpoints and application. Not a claim of every technical historical amendment.
+- **A008: Qualified direct-text closure.** Official National Archives enumerates all 12 Oct. 16–31 laws (119-125–136); GPO metadata and OLRC release points show no identified direct §32 amendment; P.L. 119-134 full text confirms its change is to 30 USC §191(d). **Not fully closed under an exhaustive full-slip-law protocol:** remaining 11 slip laws not individually read in full, and indirect payroll-tax interactions of 119-125 are outside the narrow direct-text conclusion.
