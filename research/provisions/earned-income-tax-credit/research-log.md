@@ -27,3 +27,7 @@
 
 ## Next gate
 Audit P0 JCT fiscal figures, S. Rep. 94-36, amendment chronology and 2026 cutoff; then P1 administrative and empirical claims. Only then draft/publish the EITC record under #29.
+
+
+## Follow-up audit activity (2026-11-16)
+Independently read JCT JCX-45-25 Table 1 (tax expenditure and outlay sections), GAO-26-108044 EITC discussion, IRS TY2024 processed-2025 claims and SOI series, P.L. 95-600 contents, the August/October 2026 Federal Register PRWORA notices, the official 2026 approved-acts list, and Eissa/Liebman NBER paper abstract. Confirmed JCT $67.2b/$56.6b FY2026 and qualified $10.6b arithmetic; confirmed GAO 33.5%/27.3% FY2023/FY2024; confirmed 1978 permanence belongs to §103; verified proposal/hearing status; distinguished IRS tax-year claims from JCT fiscal-year estimates. **Not performed:** S. Rep. 94-36 full-text inspection, full amendment sweep, all Oct. 20–22 public law texts, later causal studies and wage-incidence studies, complete EITC-C001–C014 source ledger. Time and manual action counts were not reliably measured. See [audit-queue.md](audit-queue.md) for pinpoints and dispositions.
