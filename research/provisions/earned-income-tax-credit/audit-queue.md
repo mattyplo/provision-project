@@ -43,3 +43,11 @@
 | **A005, A012, A014** | **Open** | S. Rep. 94-36 not independently obtained with pinpoint pages; nationwide ultimate economic incidence not established; complete claim-ID-to-durable-source mapping not completed. These are publication gates, not reasons to invent conclusions. |
 
 **Research boundary:** This pass expands independently supported facts but **does not close every item**. For A006, A008, A011, and A013, the qualifier is material. A005, A012, and A014 remain open; do not mark #29's full source audit complete.
+
+
+## Further source verification (2026-11-16)
+- **A006 upgraded for named milestone pinpoints:** OLRC [§32 amendment and effective-date notes](https://uscode.house.gov/us/usc/119-124/t26/s32/) identify P.L. 99-514 §§104/111 (TY1987); P.L. 101-508 §11111 (TY1991); P.L. 103-66 §13131 (TY1994); P.L. 107-16 §303 (generally TY2002); P.L. 111-5 §1002 (TY2009); P.L. 114-113 div. Q §103 (TY2016); P.L. 117-2 §§9621–9624 (TY2021, with §32(n) temporary for 2021 only). See [legislative-history-audit.md](legislative-history-audit.md). **Still open:** 1984 pinpoint, 1975–77 extension texts, all indirect amendments.
+- **A008 remains Open:** OLRC version is through P.L. 119-124 dated Oct. 15, 2026; a complete review of intervening October enactments is not documented. Do not certify negative statutory change through Oct. 31.
+- **C008 Qualified:** [IRS TY2022 participation table](https://www.irs.gov/tax-professionals/eitc-central/eitc-participation-rate-by-state) has **80.8% ACS-linked national row** but footnote 2 says **78% CPS-based national estimate**. Denominator and data linkage methodology matter.
+- **C013 Qualified Verified-as-reported:** [Hoynes/Miller/Simon W18206](https://www.nber.org/papers/w18206) finds 6.7–10.8% relative reduction in low birth weight per policy-induced $1,000 EITC increase among single low-education mothers. Original study has comment/reply; causal robustness remains a review item.
+- **A011/A012:** identification concerns and model-vs-empirical distinction expanded in [empirical-evidence-audit.md](empirical-evidence-audit.md). **No nationwide incidence allocation certified.**
