@@ -35,3 +35,7 @@ Independently read JCT JCX-45-25 Table 1 (tax expenditure and outlay sections), 
 
 ## Bounded statutory audit (2026-11-16)
 Checked original statutory text for P.L. 94-164 §2(f), P.L. 94-455 §401(c), P.L. 95-30 §103(b); checked OLRC §32 amendment/effective-date notes for P.L. 98-369 §§471(c),1042(e); enumerated 12 Oct. 16–31 public laws using National Archives official law list and compared GPO law metadata against OLRC release-point classifications. Inspected P.L. 119-134 text, which changes 30 USC §191(d). **Limit:** other 11 October laws were screened through official law metadata rather than individually full-text inspected. Result is qualified 'no direct §32 amendment identified,' not unconditional 'all laws exhaustively checked.' See [bounded-statutory-audit.md](bounded-statutory-audit.md).
+
+
+## October enacted-law full-text follow-up
+Individually inspected P.L. 119-125, 126, 127, 128, 129, 130, 132, 133, 134, 135 and 136 (eleven enacted texts), with sections and sources logged in [october-2026-cutoff-closeout.md](october-2026-cutoff-closeout.md). For 119-131, official GPO metadata and OLRC codified enacted 29 USC §570 plus notes were inspected; full slip-law fetch failed. No direct §32 amendment identified. Identified §2(b) of 119-125 as future-applicable only (service after 2028). **No assertion of 12/12 full-slip-law inspection**.
