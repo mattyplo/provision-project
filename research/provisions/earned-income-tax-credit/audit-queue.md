@@ -76,3 +76,7 @@
 
 ## Eligibility and rulemaking pass (2026-11-16)
 [Eligibility/regulatory check](eligibility-regulatory-quality-check.md) verifies 2026 IRS maxima, income limits, SSN/residency/age rules and separated-spouse exception, with named edge cases still open (**C003 remains partial**). **C014**: 91 FR 53812 proposed, 91 FR 64631 hearing cancellation only, CRS Oct. 26 still describes proposal; targeted final-rule search found none, **not an exhaustive negative certification**. **New issue:** IRS EITC page mentions possible 2026 Schedule 3-A and IRS hosts draft form marked DO NOT FILE; do not infer finalized law from a draft form.
+
+
+## C014 regulatory ambiguity disposition — 2026-11-16
+**C014 CLOSED FOR QUALIFIED PUBLICATION**: [PRWORA regulatory-status audit](prwora-regulatory-status.md) confirms August 20 NPRM, October 9 *hearing-only* cancellation, Oct. 26 CRS confirmation that no final timetable had been announced, and proposed §1.32-4(g) applicability tied to *future publication of final regulations*. No final rule identified by Oct. 31 docket/RIN/title searches; do not overstate as exhaustive Federal Register API certification. IRS draft Schedule 3-A and live web guidance are not final-rule evidence. Monitor future finalization separately.
