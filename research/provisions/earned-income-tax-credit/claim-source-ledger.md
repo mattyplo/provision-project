@@ -40,3 +40,7 @@ The prior C013 entry and follow-up cited **2012 NBER W18206's 6.7–10.8%** esti
 
 ## C003 and C014 follow-up — 2026-11-16
 [C003 2026 eligibility matrix](eligibility-regulatory-quality-check.md): basic requirements, 2026 thresholds and separated-spouse exception checked against IRS guidance; child tie-breakers, military/clergy and prior-disallowance edge cases remain **PARTIAL**. [C014 regulatory check](eligibility-regulatory-quality-check.md): August proposal and October hearing cancellation confirmed; targeted search found no final rule by Oct. 31, **not an exhaustive negative**. IRS page's 2026 Schedule 3-A reference and draft 'DO NOT FILE' form require separate verification; a draft form does not itself enact a rule.
+
+
+## C014 superseding status (2026-11-16)
+**C014: VERIFIED AS PROPOSAL, qualified negative final-rule finding, publication-ready with attribution.** [91 FR 53812](https://www.govinfo.gov/content/pkg/FR-2026-08-20/pdf/FR-2026-08-20.pdf) proposes §1.32-4; proposed subsection (g) applies only to tax years ending on/after *future final-rule publication*. [91 FR 64631](https://www.govinfo.gov/content/pkg/FR-2026-10-09/html/2026-20790.htm) cancels the hearing only. [CRS Oct. 26 IF13337](https://www.everycrsreport.com/files/2026-10-26_IF13337_099272ebae8f1285d1e07ab6aa1ffaf844d190d5.html) says no final timetable announced. No final rule located by Oct. 31 targeted docket/RIN search. **Not a categorical claim that an exhaustive index search proved absence.** [Detailed audit](prwora-regulatory-status.md).
