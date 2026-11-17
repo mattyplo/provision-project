@@ -35,3 +35,7 @@ The authors' [published *American Economic Journal: Economic Policy* 7(1), 2015,
 - Read and log full tables/specification robustness of employment and wage studies (not only abstracts and methodology sections).
 - Check whether any later research resolves the infant-health dispute; neither a critique nor reply automatically settles it.
 - Reconcile the other 13 archived claims with final versions and dated sources; this document resolves **C013's published-vs-working-paper discrepancy**, not every evidence-quality question.
+
+
+## Published employment paper version correction (2026-11-16)
+Earlier sections quote **1.4 pp** from Eissa–Liebman **1995 NBER W5158**. The **1996 published QJE abstract** instead reports **up to 2.8 pp**, using a post-reform window through **1990**, rather than the NBER abstract's 1988–89. **Both estimates must be retained as distinct source vintages**; use the published estimate when summarizing the published article, and do not conflate either with a uniquely identified EITC-only effect. [Published QJE](https://academic.oup.com/qje/article-abstract/111/2/605/1938452), [NBER W5158](https://www.nber.org/papers/w5158). Added [Schanzenbach–Strain 2021](https://www.journals.uchicago.edu/doi/epdf/10.1086/713494) as an affirmative employment result contrasting with Kleven 2024. See [research-quality-final-pass.md](research-quality-final-pass.md).
