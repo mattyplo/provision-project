@@ -26,3 +26,7 @@ The [IRS eligibility page](https://www.irs.gov/credits-deductions/individuals/ea
 - **C003: PARTIAL → substantially checked for main rules, still PARTIAL for exceptions.** Need qualifying-child relationship/residence/tie-breaker, foster-child and disability details; self-employment, military combat pay, clergy; prior EITC disallowance, Form 8862; nonresident joint elections; separated-spouse documentation.
 - **C014: PROPOSAL CONFIRMED, FINAL STATUS NOT EXHAUSTIVELY CERTIFIED.** Keep draft Schedule 3-A separate from law in force. Avoid applying proposal to TY2026 as settled law.
 - **Empirical robustness:** Source- and version-specific studies preserved in [research-quality-final-pass.md](research-quality-final-pass.md); no independent replication, table-by-table verification, or definitive national incidence allocation claimed.
+
+
+## Subsequent C014 disposition
+See [prwora-regulatory-status.md](prwora-regulatory-status.md): C014 is **publication-ready with explicit 'proposed as of Oct. 31' language**, supported by the original notice's future-finalization applicability clause and Oct. 26 CRS report. This supersedes the earlier open publication gate, **but does not imply an exhaustive final-rule docket API certification**.
