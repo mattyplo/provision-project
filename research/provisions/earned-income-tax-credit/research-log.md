@@ -39,3 +39,7 @@ Checked original statutory text for P.L. 94-164 §2(f), P.L. 94-455 §401(c), P.
 
 ## October enacted-law full-text follow-up
 Individually inspected P.L. 119-125, 126, 127, 128, 129, 130, 132, 133, 134, 135 and 136 (eleven enacted texts), with sections and sources logged in [october-2026-cutoff-closeout.md](october-2026-cutoff-closeout.md). For 119-131, official GPO metadata and OLRC codified enacted 29 USC §570 plus notes were inspected; full slip-law fetch failed. No direct §32 amendment identified. Identified §2(b) of 119-125 as future-applicable only (service after 2028). **No assertion of 12/12 full-slip-law inspection**.
+
+
+## Final October law retrieved (2026-11-16)
+GPO P.L. 119-131 slip-law HTML/PDF direct endpoints failed, so retrieved and inspected GPO's **full enrolled H.R. 4307 text** (BILLS-119hr4307enr), all four sections. Independently cross-checked GPO P.L. 119-131 metadata (approved Oct. 20) and OLRC 29 USC §570 (operative section and notes). No §32/EITC amendment. This closes the **substantive 12/12 enacted-text audit**, while preserving the fact that 119-131 was examined as an **enrolled bill**, not as a slip-law PDF. See [october-2026-cutoff-closeout.md](october-2026-cutoff-closeout.md).
