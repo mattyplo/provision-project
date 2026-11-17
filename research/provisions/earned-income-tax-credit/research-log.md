@@ -63,3 +63,7 @@ Inspected full August 20 NPRM and proposed §1.32-4(g), Oct. 9 hearing cancellat
 
 ## Eligibility exception primary-source review (2026-11-16)
 Opened IRS [Publication 596 (2025)](https://www.irs.gov/publications/p596), including its contents, introductory rules, Rule 2 and named sections for child tiebreakers, combat pay, clergy, disability, Form 8862 and disallowance. Recorded 2025-vintage limitations explicitly; did **not** substitute 2025 thresholds for 2026 or claim 2026 exceptions exhaustively certified. [Audit](eligibility-exceptions-audit.md).
+
+
+## Empirical robustness tables (2026-11-16)
+Directly opened Rothstein 2010 supplemental appendix (3 pp), Leigh 2010 IZA full paper (45 pp), HMS 2015 journal full paper (40 pp), Dench/Joyce manuscript (26 pp). Inspected Rothstein Appendix B elasticity reversal, Leigh Table 4 and §4.4 composition bound, HMS Table 3 race/parity estimates, Dench/Joyce Table 2 parity placebos. NBER and ScienceDirect full-paper pages unavailable; employment full robustness table review remains open. **No original regressions rerun or datasets downloaded.** [Audit](empirical-robustness-tables.md).
