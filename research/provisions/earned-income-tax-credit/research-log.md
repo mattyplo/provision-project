@@ -43,3 +43,7 @@ Individually inspected P.L. 119-125, 126, 127, 128, 129, 130, 132, 133, 134, 135
 
 ## Final October law retrieved (2026-11-16)
 GPO P.L. 119-131 slip-law HTML/PDF direct endpoints failed, so retrieved and inspected GPO's **full enrolled H.R. 4307 text** (BILLS-119hr4307enr), all four sections. Independently cross-checked GPO P.L. 119-131 metadata (approved Oct. 20) and OLRC 29 USC §570 (operative section and notes). No §32/EITC amendment. This closes the **substantive 12/12 enacted-text audit**, while preserving the fact that 119-131 was examined as an **enrolled bill**, not as a slip-law PDF. See [october-2026-cutoff-closeout.md](october-2026-cutoff-closeout.md).
+
+
+## Empirical reconciliation (2026-11-16)
+Directly compared NBER 2012 infant-health abstract with **2015 published article** and found a material numerical change (6.7–10.8% vs published 1.6–2.9% relative). Read original published article's introduction and methods, Dench/Joyce 2020 published-paper manuscript, and Hoynes/Miller/Simon response. Logged design-specific dispute (preperiod, parity contrasts, placebo checks, confounding). Also checked Kleven 2024 journal abstract and Rothstein 2010 journal abstract for design/interpretation. No replication of underlying microdata or full table-by-table audit. See [empirical-reconciliation.md](empirical-reconciliation.md).
