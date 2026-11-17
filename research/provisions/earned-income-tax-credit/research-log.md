@@ -59,3 +59,7 @@ Read IRS eligibility guide, 2026 EITC income/credit table, draft Schedule 3-A, o
 
 ## PRWORA regulatory status follow-up (2026-11-16)
 Inspected full August 20 NPRM and proposed §1.32-4(g), Oct. 9 hearing cancellation, CRS Oct. 26 analysis, live IRS eligibility page and targeted REG-119882-25/RIN 1545-BS06/title search. Verified proposed applicability is conditional on **publication of final regulations**. Found no final rule by Oct. 31; recorded negative search limitation. **C014 qualified publication gate closed**; monitoring remains advisable. See [prwora-regulatory-status.md](prwora-regulatory-status.md).
+
+
+## Eligibility exception primary-source review (2026-11-16)
+Opened IRS [Publication 596 (2025)](https://www.irs.gov/publications/p596), including its contents, introductory rules, Rule 2 and named sections for child tiebreakers, combat pay, clergy, disability, Form 8862 and disallowance. Recorded 2025-vintage limitations explicitly; did **not** substitute 2025 thresholds for 2026 or claim 2026 exceptions exhaustively certified. [Audit](eligibility-exceptions-audit.md).
