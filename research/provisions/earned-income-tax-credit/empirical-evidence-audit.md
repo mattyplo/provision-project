@@ -20,3 +20,7 @@
 - **Hoynes–Miller–Simon:** [W18206](https://www.nber.org/papers/w18206) uses federal tax-reform variation, difference-in-differences and event-study designs; identifies a defined group of births and a policy-induced **$1,000** increase, not all families. The paper explicitly has a published [comment and reply listed by NBER](https://www.nber.org/papers/w18206); assess that debate before strong causal wording. Reported 6.7–10.8% is **relative**, not percentage points.
 
 These are **identification questions and limits**, not claims that any paper has been formally refuted. No microdata replication or complete specification-by-specification audit performed.
+
+
+## Publication-version warning (2026-11-16)
+**Important:** Earlier entry quotes **6.7–10.8%** from the 2012 NBER infant-health working paper. **This is NOT the final 2015 journal paper's headline estimate.** Published Hoynes/Miller/Simon (2015) report **0.17–0.31 percentage points / 1.6–2.9% relative** for the defined group and per $1,000 after-tax income. The result is challenged by Dench/Joyce (2020), with a substantive reply by Hoynes/Miller/Simon. [Full correction and evidence](empirical-reconciliation.md). Use the published version for the provision record.
