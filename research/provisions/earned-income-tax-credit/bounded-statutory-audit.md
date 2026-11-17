@@ -42,3 +42,7 @@ These are successive **end-date substitutions**, not three separate permanent cr
 **Conclusion (qualified):** No **direct amendment to §32** was identified in the 12 laws enacted Oct. 16–31 based on the complete enacted-law enumeration, GPO classification metadata and OLRC release-point cross-check. This supports a **direct-text legal snapshot as of Oct. 31**. It does **not** prove no indirect EITC-relevant consequence from P.L. 119-125 (clergy/self-employment tax) or from any other law. For a **full-text-exhaustive** negative certification, individually read and search each of the other 11 enacted slip laws; that work is **not represented as performed here**.
 
 **Recommended publication wording:** “As of October 31, 2026, no direct amendment to 26 USC §32 was identified in the 12 public laws enacted after the October 15 codification cutoff, based on official public-law enumeration and code classification checks. Indirect interactions have not been exhaustively audited.”
+
+
+## Subsequent full-text inspection
+The earlier '11 not individually read' limitation has been narrowed: see [october-2026-cutoff-closeout.md](october-2026-cutoff-closeout.md). **11/12** slip laws directly inspected; 119-131 independently checked through OLRC codified law and GPO metadata. No direct §32 change identified. Clergy Act §2 effective for service **after 2028**, not TY2026.
