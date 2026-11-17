@@ -60,3 +60,7 @@
 
 ## October 2026 closeout follow-up
 [october-2026-cutoff-closeout.md](october-2026-cutoff-closeout.md) records **11/12 enacted slip laws directly inspected** and **P.L. 119-131 independently checked against OLRC codified enacted §3 and statutory notes, not its full slip law**. **A008: high-confidence qualified closure for direct §32 amendments**; full-text-exhaustive gate remains open solely for 119-131. P.L. 119-125 §2(b) applies to service in taxable years beginning **after 2028**, so it does not create a TY2026 EITC change by that mechanism.
+
+
+## A008 final bounded closeout — 2026-11-16
+**CLOSED — direct §32 amendment cutoff through Oct. 31, 2026.** [October closeout](october-2026-cutoff-closeout.md) now includes the **complete GPO enrolled H.R. 4307 text**, §§1–4, [official source](https://www.govinfo.gov/content/pkg/BILLS-119hr4307enr/html/BILLS-119hr4307enr.htm), matched to enacted P.L. 119-131 via GPO public-law record and OLRC 29 USC §570. All twelve laws have now been reviewed at the **complete enacted/enrolled text level**; no direct §32 amendment identified. One law's literal slip-law PDF remains inaccessible, but its complete official enrolled text has been inspected; do **not** claim 12 slip-law PDFs were retrieved. Indirect legal interactions remain outside the bounded cutoff.
