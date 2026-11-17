@@ -56,3 +56,7 @@
 ## Bounded statutory audit disposition — 2026-11-16
 - **A006: named 1975–77 and 1984 gaps closed.** [bounded-statutory-audit.md](bounded-statutory-audit.md) documents P.L. 94-164 §2(f), 94-455 §401(c)(1), 95-30 §103(b), 98-369 §§471(c), 1042(e) with original statutory pinpoints and application. Not a claim of every technical historical amendment.
 - **A008: Qualified direct-text closure.** Official National Archives enumerates all 12 Oct. 16–31 laws (119-125–136); GPO metadata and OLRC release points show no identified direct §32 amendment; P.L. 119-134 full text confirms its change is to 30 USC §191(d). **Not fully closed under an exhaustive full-slip-law protocol:** remaining 11 slip laws not individually read in full, and indirect payroll-tax interactions of 119-125 are outside the narrow direct-text conclusion.
+
+
+## October 2026 closeout follow-up
+[october-2026-cutoff-closeout.md](october-2026-cutoff-closeout.md) records **11/12 enacted slip laws directly inspected** and **P.L. 119-131 independently checked against OLRC codified enacted §3 and statutory notes, not its full slip law**. **A008: high-confidence qualified closure for direct §32 amendments**; full-text-exhaustive gate remains open solely for 119-131. P.L. 119-125 §2(b) applies to service in taxable years beginning **after 2028**, so it does not create a TY2026 EITC change by that mechanism.
