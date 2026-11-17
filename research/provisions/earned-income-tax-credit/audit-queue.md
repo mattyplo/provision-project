@@ -64,3 +64,7 @@
 
 ## A008 final bounded closeout — 2026-11-16
 **CLOSED — direct §32 amendment cutoff through Oct. 31, 2026.** [October closeout](october-2026-cutoff-closeout.md) now includes the **complete GPO enrolled H.R. 4307 text**, §§1–4, [official source](https://www.govinfo.gov/content/pkg/BILLS-119hr4307enr/html/BILLS-119hr4307enr.htm), matched to enacted P.L. 119-131 via GPO public-law record and OLRC 29 USC §570. All twelve laws have now been reviewed at the **complete enacted/enrolled text level**; no direct §32 amendment identified. One law's literal slip-law PDF remains inaccessible, but its complete official enrolled text has been inspected; do **not** claim 12 slip-law PDFs were retrieved. Indirect legal interactions remain outside the bounded cutoff.
+
+
+## Empirical source-vintage correction — 2026-11-16
+**C013 / infant health: publication-critical correction.** Earlier audit reported **6.7–10.8%** from the 2012 NBER working-paper abstract. The **final 2015 journal paper** reports **1.6–2.9% relative (0.17–0.31 percentage points)** per $1,000 after-tax income for single low-education mothers. The causal claim is contested by Dench/Joyce (2020), with reply from original authors. [Evidence reconciliation](empirical-reconciliation.md). **Do not reuse the earlier number as the final publication estimate.** Employment/incidence estimates remain heterogeneous and do not yield a national beneficiary split.
