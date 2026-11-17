@@ -88,3 +88,7 @@
 
 ## Empirical robustness table audit — 2026-11-16
 [Empirical robustness tables](empirical-robustness-tables.md) directly inspects **Rothstein supplemental Appendix B** (large income-effect elasticities **reverse** base-case net employer-capture direction), **Leigh Table 4 and §4.4** (child vs childless employment and composition bound), **HMS Table 3** and **Dench/Joyce Table 2** (subgroup concentration and parity placebo contrasts). These are **substantive robustness checks**, not independent replication. Employment published robustness tables **still open**; do not mark full empirical review complete.
+
+
+## Employment published-table audit (2026-11-16)
+**C011 upgraded:** [employment-robustness-audit.md](employment-robustness-audit.md) reviews **Eissa–Liebman QJE Tables III–IV**, **Schanzenbach–Strain 2021 Tables 3 and 5**, and **Kleven May 2024 Figure 8 and §5.5**. Schanzenbach–Strain explicitly reproduce Kleven (2019) estimates under his specification choices; they dispute preferred sample/outcome/controls. Kleven 2024's **432-specification grid** has non-1993 mean −0.32 pp and 1993 mean +4.02 pp. Retain all findings, distinguish pooled maximum-credit associations from actual payment effects. **No independent replication or full online appendix sweep.**
