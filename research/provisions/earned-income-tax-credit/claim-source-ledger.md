@@ -60,3 +60,7 @@ The prior C013 entry and follow-up cited **2012 NBER W18206's 6.7–10.8%** esti
 
 ## C003 statutory verification upgrade (2026-11-19)
 [OLRC 26 USC §32](https://uscode.house.gov/us/usc/119-124/t26/s32/) independently supports key TY2026 exceptions: childless age 25–64 and residence §32(c)(1)(A); child-SSN non-counting §32(c)(3)(D); separated spouse §32(d)(2)(B); military §112 combat-pay election §32(c)(2)(B)(vi); disallowance periods §32(k); 2021-only expansion §32(n). [IRS eligibility guidance](https://www.irs.gov/credits-deductions/individuals/earned-income-tax-credit/who-qualifies-for-the-earned-income-tax-credit-eitc) cross-checked. **Statutory verified subset; complete C003 still PARTIAL** pending §152(c), special clergy/disability and TY2026 form instructions. [Matrix](ty2026-eligibility-statutory-crosswalk.md).
+
+
+## C003 qualifying-child statute closure (2026-11-19)
+[OLRC §32(c)(3)](https://uscode.house.gov/us/usc/119-124/t26/s32/) and [OLRC §152(c), (f)](https://uscode.house.gov/us/usc/119-124/t26/s152/) directly support the [crosswalk](qualifying-child-statutory-crosswalk.md). **Crucial exclusion:** §32(c)(3)(A) disregards §152(c)(1)(D) own-support and §152(e) noncustodial release; §152(c)(1)(E) joint-return restriction still applies. **Qualifying-child statute CLOSED; full C003 remains PARTIAL** for other TY2026 administrative/special-income rules.
