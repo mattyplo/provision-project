@@ -104,3 +104,7 @@
 
 ## TY2026 §32 crosswalk — 2026-11-19
 [TY2026 statutory eligibility crosswalk](ty2026-eligibility-statutory-crosswalk.md) directly verifies §32(c)(1) childless age 25–64, residence, §911/nonresident exclusions, taxpayer/spouse SSNs, §32(c)(3)(D) child SSN non-counting, §32(d)(2)(B) separated spouse, §32(c)(2)(B)(vi) combat pay election, §32(k) 2/10-year bans, and §32(n) **2021-only** expansion. **C003 remains PARTIAL** only for full §152(c) child tests, clergy/disability detail, and final TY2026 administrative instructions; don't conflate 2025 Pub 596 with 2026 forms.
+
+
+## Qualifying-child statutory gate closed — 2026-11-19
+[Crosswalk](qualifying-child-statutory-crosswalk.md) confirms §32(c)(3)(A) incorporates §152(c) **without §152(c)(1)(D) own-support test or §152(e) noncustodial release**. Verifies relationship, residence, age/student/disability, joint-return and married-child restrictions, tie-breakers, SSNs, military and kidnapped-child exceptions. **This narrow statutory gate CLOSED.** C003 overall remains partial for TY2026 final instructions and clergy/disability *income* treatment; claim-level source QA remains open.
