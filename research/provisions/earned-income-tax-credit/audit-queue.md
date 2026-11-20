@@ -100,3 +100,7 @@
 
 ## Publication-readiness decision — 2026-11-19
 [Publication-readiness review](publication-readiness-review.md): seven central questions covered; **CONDITIONAL / NOT YET APPROVED**. **P0:** TY2026 eligibility exception crosswalk and claim-level source/pinpoint/link QA. **P1:** version consistency and mutable-source dates. **P2:** replication limitations (not a publication blocker if disclosed). Corrected Schanzenbach–Strain bibliographic pagination to **35:87–129** in research-quality-final-pass.md; preserved archived raw outputs.
+
+
+## TY2026 §32 crosswalk — 2026-11-19
+[TY2026 statutory eligibility crosswalk](ty2026-eligibility-statutory-crosswalk.md) directly verifies §32(c)(1) childless age 25–64, residence, §911/nonresident exclusions, taxpayer/spouse SSNs, §32(c)(3)(D) child SSN non-counting, §32(d)(2)(B) separated spouse, §32(c)(2)(B)(vi) combat pay election, §32(k) 2/10-year bans, and §32(n) **2021-only** expansion. **C003 remains PARTIAL** only for full §152(c) child tests, clergy/disability detail, and final TY2026 administrative instructions; don't conflate 2025 Pub 596 with 2026 forms.
