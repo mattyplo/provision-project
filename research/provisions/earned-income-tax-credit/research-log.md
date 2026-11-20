@@ -83,3 +83,7 @@ Read [provision-record-draft.md](provision-record-draft.md), [research-quality-f
 
 ## Direct §32 eligibility crosswalk (2026-11-19)
 Inspected [OLRC §32 full statutory text](https://uscode.house.gov/us/usc/119-124/t26/s32/) and [IRS live EITC eligibility page](https://www.irs.gov/credits-deductions/individuals/earned-income-tax-credit/who-qualifies-for-the-earned-income-tax-credit-eitc). Recorded exact subsections for childless age/residence, SSN distinction, separated spouses, combat-pay election, prior disallowance, 2021-only age expansion. Did not independently inspect §152(c) full text or finalized TY2026 Form 1040/EIC instructions. [Crosswalk](ty2026-eligibility-statutory-crosswalk.md).
+
+
+## Qualifying-child cross-reference inspection (2026-11-19)
+Read [OLRC §32(c)(3)](https://uscode.house.gov/us/usc/119-124/t26/s32/) and [OLRC §152(c), (f)](https://uscode.house.gov/us/usc/119-124/t26/s152/), laws through P.L. 119-124. Documented incorporated tests, expressly disregarded §152(c)(1)(D) support and §152(e) release, tie-breakers, age/student/disability, married child, joint return, identifiers, military and kidnapping. [Full matrix](qualifying-child-statutory-crosswalk.md). Did not inspect finalized TY2026 administrative forms.
