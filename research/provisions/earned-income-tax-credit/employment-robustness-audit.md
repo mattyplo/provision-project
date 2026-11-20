@@ -1,6 +1,6 @@
 # Employment evidence: published robustness tables and conflicting specifications
 
-**Audited:** 2026-11-16. **Scope:** published/author-hosted full texts and selected tables; no microdata replication. Study estimates are **researcher-reported**, not project estimates. Distinguish a published 2021 response to **Kleven (2019)** from Kleven's **2024 revised paper**.
+**Audited:** 2026-11-16 (selected-table audit); publication QA follow-up 2026-11-19. **Scope:** published/author-hosted full texts and selected tables; no microdata replication. Study estimates are **researcher-reported**, not project estimates. Distinguish a published 2021 response to **Kleven (2019)** from Kleven's **2024 revised paper**.
 
 ## Eissa & Liebman (1996), QJE 111(2):605–637
 [Full published paper hosted by Georgetown](https://faculty.georgetown.edu/noe/qje_596.pdf), pp. 627–630, Tables III–IV; [publisher](https://academic.oup.com/qje/article-abstract/111/2/605/1938452).
