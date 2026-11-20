@@ -112,3 +112,7 @@
 
 ## Citation QA pass 1 — 2026-11-19
 [Claim-level audit](citation-qa-pass1.md) reopened official OLRC §§32/152 and IRS Rev. Proc. 2025-32, **corrected the TY2026 EITC pinpoint from §3.06 to §4.06**, and replaced a currently inaccessible direct JCT attachment link with its official landing page. JCT FY2026 $67.2b corroborated in CRS R49052; **$56.6b outlay table not independently reopened this pass**. IRS claims/take-up and GAO precise pinpoints remain. **Publication P0 citation QA IN PROGRESS; not closed.**
+
+
+## Citation QA pass 2 — 2026-11-19
+[QA pass 2](citation-qa-pass2.md) directly reopened IRS TY2024 state processing national row (24m/$69.6b), IRS TY2022 ACS-linked 80.8% national row and CPS 78% footnote, and GAO-26-108044 Table 1 EITC row FY2023 33.5% / FY2024 27.3%. **These three clusters CLOSED at table/footnote level.** GAO rates include unknown payments; not synonymous with fraud. **JCT $67.2b/$56.6b original Table 1 still OPEN** (landing timeout) and TY2023 SOI original row not reopened. Publication citation P0 remains OPEN.
