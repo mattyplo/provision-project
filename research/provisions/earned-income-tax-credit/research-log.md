@@ -75,3 +75,7 @@ Read [Eissa/Liebman published QJE full text](https://faculty.georgetown.edu/noe/
 
 ## Publication synthesis (2026-11-16)
 Created [provision-record-draft.md](provision-record-draft.md) using independently audited statutes/committee reports/IRS/JCT/GAO and the study-specific employment, wage-incidence and infant-health audits. Clearly labeled model simulation vs observational estimate, competing findings, source vintage, uncertainty and regulatory proposal status. No new claim of independent regression replication or exhaustive indirect-law sweep.
+
+
+## Publication-readiness QA (2026-11-19)
+Read [provision-record-draft.md](provision-record-draft.md), [research-quality-final-pass.md](research-quality-final-pass.md), and [legislative-history-audit.md](legislative-history-audit.md). Spot-checked [P.L. 95-600 §103](https://www.govinfo.gov/content/pkg/STATUTE-92/pdf/STATUTE-92-Pg2763.pdf) and [Schanzenbach/Strain published bibliography](https://ideas.repec.org/a/ucp/tpolec/doi10.1086-713494.html). Corrected mistaken 35:1–36 to **35:87–129**, updated draft compilation date, and created [publication-readiness-review.md](publication-readiness-review.md). **No full URL crawl or independent recheck of every claim**; draft remains conditional.
