@@ -47,3 +47,7 @@ The [TY2026 statutory crosswalk](ty2026-eligibility-statutory-crosswalk.md) dire
 
 ## Citation QA underway — 2026-11-19
 [Citation QA pass 1](citation-qa-pass1.md) directly reopened §§32/152 and IRS Rev. Proc. 2025-32, correcting an important source-pinpoint error (**§4.06, not §3.06**), and improved JCT navigation after its attachment URL returned 404. **P0 claim-level QA remains open**, particularly JCT outlay and IRS/GAO precise table checks. Conditional publication status unchanged.
+
+
+## Citation QA pass 2 — 2026-11-19
+[QA pass 2](citation-qa-pass2.md) **closes** IRS TY2024 claims, IRS TY2022 ACS/CPS participation and GAO FY2023–24 improper/unknown-payment claims at table/footnote level. **JCT original Table 1 total/outlay remains unverified in this pass** due to source timeout, as does TY2023 SOI row. **Publication approval remains conditional.**
