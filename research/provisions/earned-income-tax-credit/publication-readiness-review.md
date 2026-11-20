@@ -43,3 +43,7 @@ The [TY2026 statutory crosswalk](ty2026-eligibility-statutory-crosswalk.md) dire
 
 ## Qualifying-child gate resolution — 2026-11-19
 **CLOSED at statute level:** [qualifying-child statutory crosswalk](qualifying-child-statutory-crosswalk.md) checks §32(c)(3) against §152(c) and §152(f), including explicit **exclusion of §152(c)(1)(D) support and §152(e) release**, while retaining §152(c)(1)(E) joint-return rule. P0 **claim-by-claim citation/link QA remains OPEN**; broader TY2026 special income/administrative forms not certified. Publication status remains conditional.
+
+
+## Citation QA underway — 2026-11-19
+[Citation QA pass 1](citation-qa-pass1.md) directly reopened §§32/152 and IRS Rev. Proc. 2025-32, correcting an important source-pinpoint error (**§4.06, not §3.06**), and improved JCT navigation after its attachment URL returned 404. **P0 claim-level QA remains open**, particularly JCT outlay and IRS/GAO precise table checks. Conditional publication status unchanged.
