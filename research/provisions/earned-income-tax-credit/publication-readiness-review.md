@@ -35,3 +35,7 @@
 The draft answers all seven core questions, is readable, and generally keeps statutory facts, official estimates, empirical findings and project interpretation distinct. **Do not mark the provision fully publication-ready yet.** Close P0 eligibility and citation pinpoints, then perform a final link/claim review. Keep research disagreements and 'Unknown/insufficient evidence' in the public-facing record rather than relegating them solely to appendices.
 
 **Provenance:** This review reads the actual draft and the project research-quality and legislative-history files, and independently spot-checks the 1978 enacted-law citation and the Schanzenbach–Strain bibliographic record. It does **not** independently revalidate every figure in the draft.
+
+
+## Subsequent progress — 2026-11-19
+The [TY2026 statutory crosswalk](ty2026-eligibility-statutory-crosswalk.md) directly verifies most previously Pub.-596-only edge cases against §32, including age, separated spouses, combat-pay election, child SSN consequence and 2/10-year prior-disallowance periods. **P0 eligibility reduced but not closed:** §152(c) child tests, clergy/disability detail and TY2026 administrative instructions still pending. **P0 claim-level citation QA remains open.**
