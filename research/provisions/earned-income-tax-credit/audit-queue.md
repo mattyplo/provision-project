@@ -108,3 +108,7 @@
 
 ## Qualifying-child statutory gate closed — 2026-11-19
 [Crosswalk](qualifying-child-statutory-crosswalk.md) confirms §32(c)(3)(A) incorporates §152(c) **without §152(c)(1)(D) own-support test or §152(e) noncustodial release**. Verifies relationship, residence, age/student/disability, joint-return and married-child restrictions, tie-breakers, SSNs, military and kidnapped-child exceptions. **This narrow statutory gate CLOSED.** C003 overall remains partial for TY2026 final instructions and clergy/disability *income* treatment; claim-level source QA remains open.
+
+
+## Citation QA pass 1 — 2026-11-19
+[Claim-level audit](citation-qa-pass1.md) reopened official OLRC §§32/152 and IRS Rev. Proc. 2025-32, **corrected the TY2026 EITC pinpoint from §3.06 to §4.06**, and replaced a currently inaccessible direct JCT attachment link with its official landing page. JCT FY2026 $67.2b corroborated in CRS R49052; **$56.6b outlay table not independently reopened this pass**. IRS claims/take-up and GAO precise pinpoints remain. **Publication P0 citation QA IN PROGRESS; not closed.**
