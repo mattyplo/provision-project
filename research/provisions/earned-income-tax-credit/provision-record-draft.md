@@ -1,6 +1,6 @@
 # Earned Income Tax Credit (EITC) — audited provision record (draft)
 
-**Provision:** 26 U.S.C. §32 · **Research snapshot:** October 31, 2026 · **Compiled:** November 16, 2026 · **Status:** Draft for editorial review. This is an evidence synthesis, not legal or tax advice. Each source supports the specific claim alongside it; research findings are not treated as statutory facts.
+**Provision:** 26 U.S.C. §32 · **Research snapshot:** October 31, 2026 · **Compiled:** November 19, 2026 · **Status:** Draft for editorial review. This is an evidence synthesis, not legal or tax advice. Each source supports the specific claim alongside it; research findings are not treated as statutory facts.
 
 ## At a glance
 The **Earned Income Tax Credit** is a **refundable federal income-tax credit** tied to earned income, family circumstances and filing requirements. As earned income increases, the credit generally rises, reaches a maximum and then phases out. A qualifying worker can receive the refundable portion even if income tax liability is zero. [26 USC §32(a)–(c)](https://uscode.house.gov/us/usc/119-124/t26/s32/).
