@@ -96,3 +96,7 @@
 
 ## Publication record assembled — 2026-11-16
 [Provision record draft](provision-record-draft.md) now synthesizes verified mechanics, stated legislative purpose, major enactments, 2026 eligibility, observed use, JCT estimate, GAO administration, and **all competing employment/incidence/infant-health studies**. **Not a final publication sign-off**: C003 TY2026 exceptions remain partial; empirical replication not done; incidence allocation unknown; final editorial citation/pinpoint check remains. Archived model outputs unchanged.
+
+
+## Publication-readiness decision — 2026-11-19
+[Publication-readiness review](publication-readiness-review.md): seven central questions covered; **CONDITIONAL / NOT YET APPROVED**. **P0:** TY2026 eligibility exception crosswalk and claim-level source/pinpoint/link QA. **P1:** version consistency and mutable-source dates. **P2:** replication limitations (not a publication blocker if disclosed). Corrected Schanzenbach–Strain bibliographic pagination to **35:87–129** in research-quality-final-pass.md; preserved archived raw outputs.
