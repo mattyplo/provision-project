@@ -91,3 +91,7 @@ Read [OLRC §32(c)(3)](https://uscode.house.gov/us/usc/119-124/t26/s32/) and [OL
 
 ## Citation verification pass 1 (2026-11-19)
 Reopened [OLRC §32](https://uscode.house.gov/us/usc/119-124/t26/s32/), [OLRC §152](https://uscode.house.gov/us/usc/119-124/t26/s152/), and [IRS I.R.B. 2025-45](https://www.irs.gov/irb/2025-45_IRB). IRS 2026 EITC figures occur in Rev. Proc. 2025-32 **§4.06**, not §3.06. JCT attachment URL returned 404; [JCT landing](https://www.jct.gov/publications/2025/jcx-45-25/) exists, and [CRS R49052](https://www.everycrsreport.com/reports/R49052.html) corroborates $67.2b. Outlay $56.6b not reverified in this pass. Draft and [citation QA ledger](citation-qa-pass1.md) updated; no comprehensive link crawl.
+
+
+## Targeted IRS/GAO primary-source check (2026-11-19)
+Opened [IRS 2024 EITC claims](https://www.irs.gov/tax-professionals/eitc-central/statistics-for-tax-returns-with-the-earned-income-tax-credit-eitc) national row (24m, $69.6b; cycle 202553), [IRS participation](https://www.irs.gov/tax-professionals/eitc-central/eitc-participation-rate-by-state) national 2022 row 80.8% and footnotes 1/2 (CPS 78%), [GAO-26-108044 Table 1](https://files.gao.gov/reports/GAO-26-108044/index.html) EITC row FY2023 33.5% FY2024 27.3%, including GAO caveat that rates cover unknown payments. JCT landing timed out. [Citation pass 2](citation-qa-pass2.md). Draft precision updated.
