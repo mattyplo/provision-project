@@ -39,3 +39,7 @@ The draft answers all seven core questions, is readable, and generally keeps sta
 
 ## Subsequent progress — 2026-11-19
 The [TY2026 statutory crosswalk](ty2026-eligibility-statutory-crosswalk.md) directly verifies most previously Pub.-596-only edge cases against §32, including age, separated spouses, combat-pay election, child SSN consequence and 2/10-year prior-disallowance periods. **P0 eligibility reduced but not closed:** §152(c) child tests, clergy/disability detail and TY2026 administrative instructions still pending. **P0 claim-level citation QA remains open.**
+
+
+## Qualifying-child gate resolution — 2026-11-19
+**CLOSED at statute level:** [qualifying-child statutory crosswalk](qualifying-child-statutory-crosswalk.md) checks §32(c)(3) against §152(c) and §152(f), including explicit **exclusion of §152(c)(1)(D) support and §152(e) release**, while retaining §152(c)(1)(E) joint-return rule. P0 **claim-by-claim citation/link QA remains OPEN**; broader TY2026 special income/administrative forms not certified. Publication status remains conditional.
