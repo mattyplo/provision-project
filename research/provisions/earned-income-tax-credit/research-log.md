@@ -87,3 +87,7 @@ Inspected [OLRC §32 full statutory text](https://uscode.house.gov/us/usc/119-12
 
 ## Qualifying-child cross-reference inspection (2026-11-19)
 Read [OLRC §32(c)(3)](https://uscode.house.gov/us/usc/119-124/t26/s32/) and [OLRC §152(c), (f)](https://uscode.house.gov/us/usc/119-124/t26/s152/), laws through P.L. 119-124. Documented incorporated tests, expressly disregarded §152(c)(1)(D) support and §152(e) release, tie-breakers, age/student/disability, married child, joint return, identifiers, military and kidnapping. [Full matrix](qualifying-child-statutory-crosswalk.md). Did not inspect finalized TY2026 administrative forms.
+
+
+## Citation verification pass 1 (2026-11-19)
+Reopened [OLRC §32](https://uscode.house.gov/us/usc/119-124/t26/s32/), [OLRC §152](https://uscode.house.gov/us/usc/119-124/t26/s152/), and [IRS I.R.B. 2025-45](https://www.irs.gov/irb/2025-45_IRB). IRS 2026 EITC figures occur in Rev. Proc. 2025-32 **§4.06**, not §3.06. JCT attachment URL returned 404; [JCT landing](https://www.jct.gov/publications/2025/jcx-45-25/) exists, and [CRS R49052](https://www.everycrsreport.com/reports/R49052.html) corroborates $67.2b. Outlay $56.6b not reverified in this pass. Draft and [citation QA ledger](citation-qa-pass1.md) updated; no comprehensive link crawl.
