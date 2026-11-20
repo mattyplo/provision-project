@@ -1,0 +1,26 @@
+# EITC empirical research — competing findings and incidence
+
+**Audit date:** 2026-11-16. Distinguish paper's reported result from our causal interpretation. The linked original publications/author versions were inspected at abstract and available introductory-text level; **not a full reanalysis of methods, tables, or microdata**.
+
+| Study | Question and identification | Authors' reported result | What it does **not** establish |
+| --- | --- | --- | --- |
+| [Eissa & Liebman, NBER W5158 (1995), published QJE (1996)](https://www.nber.org/papers/w5158) | Difference-in-differences for single mothers vs childless single women around TRA1986 | ~**1.4 percentage point** relative increase in participation; no significant hours change for those already employed | Isolating **only** EITC from other TRA1986 changes, general national effect for all periods/populations |
+| [Kleven, *J. Public Economics* 2024, NBER W26405 revised May 2024](https://www.nber.org/papers/w26405) | Reappraisal of federal/state EITC reforms, event-study and specification sensitivity | Most expansions **not associated with clear robust employment effects**; 1993 episode exceptional, possibly confounded by welfare reform and macroeconomy | Proof of zero effect for all populations or that every earlier study is invalid |
+| [Rothstein, *AEJ: Economic Policy* 2010](https://www.aeaweb.org/articles?id=10.1257%2Fpol.2.1.177) | **Model-based simulation** of wage incidence under assumed labor supply/demand elasticities | In preferred simulation, $1 EITC spending raises after-tax incomes **$0.73**, with some employer wage capture | Observed national incidence share or a direct causal estimate of nationwide employer capture |
+| [Leigh, *B.E. J. Economic Analysis & Policy* 2010; IZA DP4960](https://www.iza.org/publications/dp/4960/who-benefits-from-the-earned-income-tax-credit-incidence-among-recipients-coworkers-and-firms) | Empirical state EITC variation and wage comparisons by education | Association: 10% increase in EITC generosity with **5% lower wages** for high-school dropouts and **2% lower wages** for high-school graduates; no college-graduate effect in study | A universal wage effect or mechanically applicable national fiscal allocation |
+
+**Synthesis (project inference):** Evidence for employment and wage responses is heterogeneous and identification-dependent. EITC eligibility and dollars claimed identify **legal recipients**, not necessarily **ultimate economic beneficiaries**. Retain **economic incidence: unknown / insufficient evidence for a national allocation**. Rothstein is a simulation, Leigh is empirical; they are **not interchangeable confirmations**. Further check full methods, data vintages, counterstudies (e.g. Schanzenbach–Strain, Meyer–Rosenbaum), and applicability to 2026 rules before final publication.
+
+
+## Methods-focused addendum (2026-11-16)
+- **Eissa–Liebman:** treatment/control comparison across TRA1986 uses single women with versus without children. Key identification requirement is **parallel counterfactual labor-market trends**; contemporaneous tax changes and demographic differences can bias attribution. The participation estimate is an *extensive-margin* effect, not a universal hours effect.
+- **Kleven:** multiple-reform event-study / reappraisal examines pretrends and sensitivity to time-varying confounders. A nonrobust event-study estimate does not prove a structural zero; comparisons with earlier studies depend on the particular reform, sample and estimand.
+- **Rothstein:** labor-market equilibrium **simulation** needs elasticities and assumptions about how employer wage offers adjust. The dollar split is model-contingent; no empirical national 'employer take' can be inferred.
+- **Leigh:** state-level EITC policy variation and wage regressions raise identification questions about state economic conditions, wage policies, labor composition, and spillovers to nonclaimants. Reported wage associations do not by themselves quantify national incidence.
+- **Hoynes–Miller–Simon:** [W18206](https://www.nber.org/papers/w18206) uses federal tax-reform variation, difference-in-differences and event-study designs; identifies a defined group of births and a policy-induced **$1,000** increase, not all families. The paper explicitly has a published [comment and reply listed by NBER](https://www.nber.org/papers/w18206); assess that debate before strong causal wording. Reported 6.7–10.8% is **relative**, not percentage points.
+
+These are **identification questions and limits**, not claims that any paper has been formally refuted. No microdata replication or complete specification-by-specification audit performed.
+
+
+## Publication-version warning (2026-11-16)
+**Important:** Earlier entry quotes **6.7–10.8%** from the 2012 NBER infant-health working paper. **This is NOT the final 2015 journal paper's headline estimate.** Published Hoynes/Miller/Simon (2015) report **0.17–0.31 percentage points / 1.6–2.9% relative** for the defined group and per $1,000 after-tax income. The result is challenged by Dench/Joyce (2020), with a substantive reply by Hoynes/Miller/Simon. [Full correction and evidence](empirical-reconciliation.md). Use the published version for the provision record.

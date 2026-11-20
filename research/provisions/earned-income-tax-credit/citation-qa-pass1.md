@@ -1,0 +1,25 @@
+# Provision record: claim-by-claim citation QA — pass 1
+
+**Date:** 2026-11-19 · **Target:** [provision-record-draft.md](provision-record-draft.md) · **Scope:** independently reopened selected high-impact sources and checked internal citation precision. **Not a complete link crawl.** A source's presence in a report is not the same as independent verification of its contents.
+
+| Claim | Source / pinpoint | Check | Disposition |
+| --- | --- | --- | --- |
+| §32 phase-in/phaseout and credit categories | [OLRC §32(a)–(b)](https://uscode.house.gov/us/usc/119-124/t26/s32/) | Official text opened; §32(a)(1)–(2), (b)(1) contain formula/rates | **Verified** |
+| Qualifying-child incorporation and exceptions | [OLRC §32(c)(3)(A)–(D)](https://uscode.house.gov/us/usc/119-124/t26/s32/); [OLRC §152(c)(1)–(4)](https://uscode.house.gov/us/usc/119-124/t26/s152/) | Both official texts opened. §32(c)(3)(A) excludes §152(c)(1)(D) support and §152(e) noncustodial release; §152(c)(1)(E) joint-return test remains | **Verified; crosswalk linked in draft** |
+| TY2026 EITC maxima and investment-income cap | [IRS Rev. Proc. 2025-32 **§4.06(1)–(2)**](https://www.irs.gov/irb/2025-45_IRB) | Official IRS Bulletin opened; maxima $664/$4,427/$7,316/$8,231, investment threshold $12,200 | **Verified; corrected draft pinpoint from §3.06 to §4.06** |
+| FY2026 JCT total tax expenditure $67.2b | [JCT publication landing page JCX-45-25](https://www.jct.gov/publications/2025/jcx-45-25/); [CRS R49052 Table 1](https://www.everycrsreport.com/reports/R49052.html) | Direct attachment URL returned HTTP 404 in one retrieval, although indexed search result exposes a table and CRS independently repeats $67.2b | **Qualified corroborated**; official landing link substituted; PDF attachment accessibility and full original row need follow-up |
+| FY2026 JCT outlay $56.6b and arithmetic $10.6b | [JCT JCX-45-25 landing page](https://www.jct.gov/publications/2025/jcx-45-25/) | Existing project research reports these figures; original outlay table **not reopened in this pass** | **Carry forward from prior audit, not newly verified**; reopen official outlay table before final approval |
+| IRS TY2023 SOI and TY2024 processing | [IRS SOI](https://www.irs.gov/credits-deductions/individuals/earned-income-tax-credit/earned-income-tax-credit-statistics), [IRS state table](https://www.irs.gov/tax-professionals/eitc-central/statistics-for-tax-returns-with-the-earned-income-tax-credit-eitc) | Existing project audit distinguishes vintages; **not reopened this pass** | **Carry forward; exact table/date QA open** |
+| IRS TY2022 participation 80.8% vs 78% | [IRS participation](https://www.irs.gov/tax-professionals/eitc-central/eitc-participation-rate-by-state) | Existing project audit distinguished ACS vs CPS; **not reopened this pass** | **Carry forward; footnote pinpoint QA open** |
+| GAO improper-payment rates | [GAO-26-108044](https://files.gao.gov/reports/GAO-26-108044/index.html) | Existing audit reports 33.5% and 27.3%; **not reopened this pass** | **Carry forward; table pinpoint QA open** |
+| Legislative purpose and 1975 enactment | [Senate Finance report pp. 10–11, 32–35](https://www.finance.senate.gov/imo/media/doc/tax1.pdf), [P.L. 94-12 §204](https://www.govinfo.gov/content/pkg/STATUTE-89/pdf/STATUTE-89-Pg26.pdf) | Prior project audit inspected source; **not reopened this pass** | **Carry forward; direct link QA open** |
+| Empirical study estimates | [Employment tables](employment-robustness-audit.md), [incidence and health](empirical-robustness-tables.md) | Prior source-level audits; **not independently re-reviewed in this pass** | **Retain researcher attribution and version caveats; final per-table QA open** |
+| PRWORA proposed-rule status | [Regulatory audit](prwora-regulatory-status.md) | Existing bounded cutoff review; **not re-swept** | **Retain as-of cutoff qualification** |
+
+## Corrections actually applied
+1. Updated draft to cite **IRS Rev. Proc. 2025-32 §4.06(1)–(2)**, not §3.06. IRS Bulletin **Section 3** covers 2025 modified items; **Section 4** is explicitly “2026 Adjusted Items.” This is a substantive source-pinpoint correction.
+2. Added explicit links to [qualifying-child statutory crosswalk](qualifying-child-statutory-crosswalk.md) and [TY2026 eligibility crosswalk](ty2026-eligibility-statutory-crosswalk.md); incorporated EITC's excluded support and release tests into the public draft.
+3. Replaced a JCT direct PDF attachment that returned 404 in the current retrieval with its [official publication landing page](https://www.jct.gov/publications/2025/jcx-45-25/). **Do not interpret the link replacement as independent confirmation of the $56.6b outlay number.**
+
+## Publication disposition
+**Claim-level QA is IN PROGRESS, not complete.** Highest-priority next verification: retrieve the official JCT outlay table and pin its exact EITC row; independently reopen IRS SOI/participation and GAO table/footnotes; verify all remaining outbound links. No publication sign-off granted. Keep archived model reports unchanged.
