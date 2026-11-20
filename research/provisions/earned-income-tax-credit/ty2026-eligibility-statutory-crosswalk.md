@@ -28,3 +28,7 @@
 
 ## Disposition
 **C003: substantial statutory crosswalk completed; still PARTIAL for a fully certified TY2026 exception matrix.** Core eligibility and most edge cases are now directly supported by §32, reducing dependence on 2025 Publication 596. Remaining work is targeted: §152(c) qualifying-child crosswalk, special clergy/disability provisions, and final TY2026 administrative instructions/forms. These do not require withholding a clearly qualified high-level eligibility summary, but preclude labeling every exception verified.
+
+
+## §152(c) cross-reference completed — 2026-11-19
+[Qualifying-child statutory crosswalk](qualifying-child-statutory-crosswalk.md) directly checks §152(c)(1)–(4), §152(f), and EITC-specific §32(c)(3). **Key correction:** §32(c)(3)(A) expressly **disregards §152(c)(1)(D)'s own-support test and §152(e)'s noncustodial-parent dependent release**; §152(c)(1)(E)'s joint-return test remains applicable. Also covers married-child §32(c)(3)(B), age/student/disability, US residence, military and kidnapping exceptions, identifiers, and tie-breakers. **Qualifying-child statutory gate CLOSED; broader C003 remains PARTIAL** for administrative instructions and other special-income rules.
