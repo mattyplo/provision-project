@@ -79,3 +79,7 @@ Created [provision-record-draft.md](provision-record-draft.md) using independent
 
 ## Publication-readiness QA (2026-11-19)
 Read [provision-record-draft.md](provision-record-draft.md), [research-quality-final-pass.md](research-quality-final-pass.md), and [legislative-history-audit.md](legislative-history-audit.md). Spot-checked [P.L. 95-600 §103](https://www.govinfo.gov/content/pkg/STATUTE-92/pdf/STATUTE-92-Pg2763.pdf) and [Schanzenbach/Strain published bibliography](https://ideas.repec.org/a/ucp/tpolec/doi10.1086-713494.html). Corrected mistaken 35:1–36 to **35:87–129**, updated draft compilation date, and created [publication-readiness-review.md](publication-readiness-review.md). **No full URL crawl or independent recheck of every claim**; draft remains conditional.
+
+
+## Direct §32 eligibility crosswalk (2026-11-19)
+Inspected [OLRC §32 full statutory text](https://uscode.house.gov/us/usc/119-124/t26/s32/) and [IRS live EITC eligibility page](https://www.irs.gov/credits-deductions/individuals/earned-income-tax-credit/who-qualifies-for-the-earned-income-tax-credit-eitc). Recorded exact subsections for childless age/residence, SSN distinction, separated spouses, combat-pay election, prior disallowance, 2021-only age expansion. Did not independently inspect §152(c) full text or finalized TY2026 Form 1040/EIC instructions. [Crosswalk](ty2026-eligibility-statutory-crosswalk.md).
