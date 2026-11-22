@@ -59,3 +59,7 @@ The [TY2026 statutory crosswalk](ty2026-eligibility-statutory-crosswalk.md) dire
 
 ## Consolidated current decision — 2026-11-22
 [Final editorial consistency audit](final-editorial-consistency-audit.md): **NOT YET APPROVED**. Earlier dated P0 notes are historical: §152 qualifying-child statutory review and JCT/IRS/GAO fiscal/usage table checks have since closed. **Newly flagged:** Kleven source-audit grid description said 432 = 7×4×4×4, but product is **448**; decomposition withdrawn pending original-paper recheck. Remaining: systematic material-claim/link audit, Kleven exact count/source check, and editorial decision on scope of unverified TY2026 administrative special cases. High-level statutory eligibility summary can disclose limitations; do not label full TY2026 exception matrix certified.
+
+
+## Kleven source count directly checked — 2026-11-22
+[Published and author-text comparison](kleven-specification-count-audit.md): **both explicitly report 432 specifications**; their prose also describes 7×4×4×4=448 if fully crossed. The **16-cell difference is unexplained in inspected §5.4**. Count is **verified as author-reported**, not independently enumerated. The prior internal arithmetic correction was valid but not sufficient: the tension originates in the published source description itself. **This is a transparent methodological caveat, not grounds to discard the study or change 432 to 448.** Remaining P0: systematic material-claim/link audit; TY2026 administrative-scope editorial decision.
