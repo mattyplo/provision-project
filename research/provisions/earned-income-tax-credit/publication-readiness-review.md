@@ -63,3 +63,7 @@ The [TY2026 statutory crosswalk](ty2026-eligibility-statutory-crosswalk.md) dire
 
 ## Kleven source count directly checked — 2026-11-22
 [Published and author-text comparison](kleven-specification-count-audit.md): **both explicitly report 432 specifications**; their prose also describes 7×4×4×4=448 if fully crossed. The **16-cell difference is unexplained in inspected §5.4**. Count is **verified as author-reported**, not independently enumerated. The prior internal arithmetic correction was valid but not sufficient: the tension originates in the published source description itself. **This is a transparent methodological caveat, not grounds to discard the study or change 432 to 448.** Remaining P0: systematic material-claim/link audit; TY2026 administrative-scope editorial decision.
+
+
+## Material-link QA progress — 2026-11-22
+[Pass 1](material-link-audit-pass1.md) confirms eight high-salience historical/empirical source URLs open, with selected directly visible claims checked. Eissa/Liebman PDF reachable but text unavailable in this retrieval; no new table-level certification. **Not a complete outbound-link crawl or claim-by-claim empirical verification. Publication remains NOT YET APPROVED.**
