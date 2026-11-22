@@ -124,3 +124,7 @@
 
 ## Final consistency review — 2026-11-22
 [Editorial audit](final-editorial-consistency-audit.md) found and corrected **432 ≠ 7×4×4×4 (448)** in Kleven study audit; exact 432 source count pending direct recheck. JCT outlay is component, not additive to $67.2b total. Consolidated current publication status **NOT YET APPROVED**, pending systematic citation/link check and decision on TY2026 administrative-scope caveat.
+
+
+## Kleven count source verification — 2026-11-22
+[Count audit](kleven-specification-count-audit.md): published journal-formatted §5.4 p.16 and May author §5.4 p.24 **both say 432**; 7×4×4×4=448. Published Figure 9 non-1993 **304**. **432 verified as author-reported, grid completeness not reconciled**; record as disclosed research limitation, not a project-invented fix. Empirical full appendix enumeration optional deeper follow-up. Remaining prepublication: broad claim/link audit.
