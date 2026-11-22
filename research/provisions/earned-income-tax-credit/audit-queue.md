@@ -132,3 +132,7 @@
 
 ## Material-link QA sample — 2026-11-22
 [Material-link audit pass 1](material-link-audit-pass1.md) live-opened **eight** external source PDFs (1975 Senate report, 1975 law, Eissa/Liebman, Schanzenbach/Strain, Leigh, Rothstein supplement, Hoynes/Miller/Simon, Dench/Joyce). **All eight URLs reachable**; seven searchable, Eissa PDF no extracted text. Verified selected cover/abstract claims but **not every table or line**. Remaining links and exact table checks still open; publication NOT YET APPROVED.
+
+
+## External citation inventory complete (attempted) — 2026-11-22
+[Inventory](outbound-citation-inventory-final.md): 27 external link occurrences, **24 distinct targets** attempted. **18 readable, 2 open with no extractable text, 2 NBER 403, 2 oversized government PDFs.** No blanket claim of full source verification. **Open for publication decision:** replace/access 1978 law and 2026 proposed rule at article level; independently verify NBER WP-specific figures or label unverified; scope TY2026 administrative exceptions. Corrected HMS response: authors acknowledge, but interpret differently, the parity placebo.
