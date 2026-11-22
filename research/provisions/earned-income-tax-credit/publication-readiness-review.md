@@ -67,3 +67,7 @@ The [TY2026 statutory crosswalk](ty2026-eligibility-statutory-crosswalk.md) dire
 
 ## Material-link QA progress — 2026-11-22
 [Pass 1](material-link-audit-pass1.md) confirms eight high-salience historical/empirical source URLs open, with selected directly visible claims checked. Eissa/Liebman PDF reachable but text unavailable in this retrieval; no new table-level certification. **Not a complete outbound-link crawl or claim-by-claim empirical verification. Publication remains NOT YET APPROVED.**
+
+
+## Complete attempted outbound-source inventory — 2026-11-22
+[Final link inventory](outbound-citation-inventory-final.md) enumerated all **24 unique external URLs** in the public provision record (27 link occurrences) and attempted each. **18 readable; 2 open but no extractable text; 2 NBER 403; 2 oversized government full-volume/issue PDFs.** This **closes the inventory-and-attempt gate**, **not** the stronger requirement that all links be accessible and all numerical claims freshly verified. Notably the HMS authors' response acknowledges the parity-placebo anomaly; draft wording corrected. **Decision: CONDITIONAL / NOT YET APPROVED** until blocked source references are resolved or explicitly accepted as provenance limits; 2026 special administrative guidance remains scoped out of complete certification.
