@@ -128,3 +128,7 @@
 
 ## Kleven count source verification — 2026-11-22
 [Count audit](kleven-specification-count-audit.md): published journal-formatted §5.4 p.16 and May author §5.4 p.24 **both say 432**; 7×4×4×4=448. Published Figure 9 non-1993 **304**. **432 verified as author-reported, grid completeness not reconciled**; record as disclosed research limitation, not a project-invented fix. Empirical full appendix enumeration optional deeper follow-up. Remaining prepublication: broad claim/link audit.
+
+
+## Material-link QA sample — 2026-11-22
+[Material-link audit pass 1](material-link-audit-pass1.md) live-opened **eight** external source PDFs (1975 Senate report, 1975 law, Eissa/Liebman, Schanzenbach/Strain, Leigh, Rothstein supplement, Hoynes/Miller/Simon, Dench/Joyce). **All eight URLs reachable**; seven searchable, Eissa PDF no extracted text. Verified selected cover/abstract claims but **not every table or line**. Remaining links and exact table checks still open; publication NOT YET APPROVED.
