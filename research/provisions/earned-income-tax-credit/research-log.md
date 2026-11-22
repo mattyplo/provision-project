@@ -99,3 +99,7 @@ Opened [IRS 2024 EITC claims](https://www.irs.gov/tax-professionals/eitc-central
 
 ## Recovered JCT PDF and IRS historical table — 2026-11-22
 Opened [JCT landing](https://www.jct.gov/publications/2025/jcx-45-25/), followed **Download Now** to [current official attachment](https://www.jct.gov/getattachment/8c830c45-1680-4f7e-a649-2a0106f6b6e3/x-45-25.pdf). Directly checked Table 1 printed p.41 FY2026 $67.2b and footnote [3] printed p.43 $56.6b; introduction baseline laws through Aug31 2025 and Jan2025 CBO. Opened [IRS historical statistics](https://www.irs.gov/credits-deductions/individuals/earned-income-tax-credit/earned-income-tax-credit-statistics): TY2023* 23.2m/$63.8b, TY2024* 24.1m/$70.6b, starred footnote **CDW actual volume**. Draft updated. [Full QA pass 3](citation-qa-pass3.md).
+
+
+## Editorial consistency audit (2026-11-22)
+Read live PR provision draft, readiness review, employment robustness, empirical robustness, eligibility exceptions and citation QA pass 3. Identified arithmetically inconsistent Kleven grid (7×4×4×4=448, not 432); withdrew grid decomposition pending direct source verification. Clarified JCT outlay is included in total and updated draft editorial date. [Audit](final-editorial-consistency-audit.md). This was **not** a full external-source or link crawl.
