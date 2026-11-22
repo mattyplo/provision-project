@@ -95,3 +95,7 @@ Reopened [OLRC §32](https://uscode.house.gov/us/usc/119-124/t26/s32/), [OLRC §
 
 ## Targeted IRS/GAO primary-source check (2026-11-19)
 Opened [IRS 2024 EITC claims](https://www.irs.gov/tax-professionals/eitc-central/statistics-for-tax-returns-with-the-earned-income-tax-credit-eitc) national row (24m, $69.6b; cycle 202553), [IRS participation](https://www.irs.gov/tax-professionals/eitc-central/eitc-participation-rate-by-state) national 2022 row 80.8% and footnotes 1/2 (CPS 78%), [GAO-26-108044 Table 1](https://files.gao.gov/reports/GAO-26-108044/index.html) EITC row FY2023 33.5% FY2024 27.3%, including GAO caveat that rates cover unknown payments. JCT landing timed out. [Citation pass 2](citation-qa-pass2.md). Draft precision updated.
+
+
+## Recovered JCT PDF and IRS historical table — 2026-11-22
+Opened [JCT landing](https://www.jct.gov/publications/2025/jcx-45-25/), followed **Download Now** to [current official attachment](https://www.jct.gov/getattachment/8c830c45-1680-4f7e-a649-2a0106f6b6e3/x-45-25.pdf). Directly checked Table 1 printed p.41 FY2026 $67.2b and footnote [3] printed p.43 $56.6b; introduction baseline laws through Aug31 2025 and Jan2025 CBO. Opened [IRS historical statistics](https://www.irs.gov/credits-deductions/individuals/earned-income-tax-credit/earned-income-tax-credit-statistics): TY2023* 23.2m/$63.8b, TY2024* 24.1m/$70.6b, starred footnote **CDW actual volume**. Draft updated. [Full QA pass 3](citation-qa-pass3.md).
