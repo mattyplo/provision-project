@@ -103,3 +103,7 @@ Opened [JCT landing](https://www.jct.gov/publications/2025/jcx-45-25/), followed
 
 ## Editorial consistency audit (2026-11-22)
 Read live PR provision draft, readiness review, employment robustness, empirical robustness, eligibility exceptions and citation QA pass 3. Identified arithmetically inconsistent Kleven grid (7×4×4×4=448, not 432); withdrew grid decomposition pending direct source verification. Clarified JCT outlay is included in total and updated draft editorial date. [Audit](final-editorial-consistency-audit.md). This was **not** a full external-source or link crawl.
+
+
+## Kleven full-text count recheck (2026-11-22)
+Reviewed [journal-formatted full text §5.4 p.16](https://eml.berkeley.edu/~saez/course/klevenJpubE24EITC.pdf) and [May 2024 author revision §5.4 p.24](https://www.henrikkleven.com/uploads/3/7/3/1/37310663/kleven_eitc_may2024.pdf). Both state 432 while prose lists 7 reform experiments, 4 samples, 4 outcomes, 4 controls = 448 fully crossed; journal Figure 9 says 304 non-1993. Discrepancy not resolved by inspected text. [Detailed audit](kleven-specification-count-audit.md).
