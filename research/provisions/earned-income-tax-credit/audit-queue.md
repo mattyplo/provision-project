@@ -120,3 +120,7 @@
 
 ## Fiscal and IRS source QA closed — 2026-11-22
 [Pass 3](citation-qa-pass3.md): recovered **official JCT JCX-45-25 PDF** via current landing-page Download Now (new attachment ID). **Table 1 printed p. 41** EITC FY2026 **$67.2b** and **footnote [3] printed p. 43** FY2026 outlay **$56.6b**, both DIRECTLY VERIFIED. $10.6b is project arithmetic, not JCT line. **IRS historical table TY2023* 23.2m/$63.8b** directly verified; footnote says starred 2021–24 are **CDW-derived actual volume**, not sample estimates. TY2024* 24.1m/$70.6b is distinct from TY2024 processed-2025 state table 24m/$69.6b. **Prior JCT/IRS P0 blocker CLOSED.** Remaining: complete editorial link and empirical pinpoint QA, special TY2026 instructions; publication sign-off not automatic.
+
+
+## Final consistency review — 2026-11-22
+[Editorial audit](final-editorial-consistency-audit.md) found and corrected **432 ≠ 7×4×4×4 (448)** in Kleven study audit; exact 432 source count pending direct recheck. JCT outlay is component, not additive to $67.2b total. Consolidated current publication status **NOT YET APPROVED**, pending systematic citation/link check and decision on TY2026 administrative-scope caveat.
