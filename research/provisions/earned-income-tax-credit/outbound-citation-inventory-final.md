@@ -30,7 +30,7 @@
 | Dench/Joyce manuscript PDF | **Readable PDF** | Abstract confirms placebo critique; manuscript not independently checked against journal typesetting |
 | HMS response PDF | **Readable PDF** | **Important nuance:** authors explicitly acknowledge the fourth-vs-third birth parity placebo anomaly and say their own 2015 paper already disclosed it (response pp.4–5). Their rebuttal concerns interpretation and robustness, **not a denial the anomaly exists** |
 
-**Result:** 19 URLs directly readable; **2 opened but without extractable text** (Eissa, Kleven); **2 inaccessible via HTTP 403** (NBER); **2 oversized retrieval failures** (1978 Statutes PDF, 2026 Federal Register issue). Note these categories total **25** because the source inventory above includes **OLRC §32** and may require recount before machine-computed totals are used. **Use the 24-row inventory itself as authoritative rather than this unvalidated aggregate.**
+**Result:** **18 directly readable**, **2 opened but without extractable text** (Eissa, Kleven), **2 returned HTTP 403** (NBER), and **2 failed as oversized** (1978 Statutes PDF, 2026 Federal Register issue): **24 unique external URLs in total**.
 
 ## Citation-level correction from direct primary text
 Hoynes/Miller/Simon [response pp.4–5](https://gspp.berkeley.edu/assets/uploads/research/pdf/DJ_response_JHE_012519.pdf) **acknowledges** a fourth-vs-third parity placebo anomaly, quoting their 2015 paper's discussion of it. Their position is that other timing/robustness evidence still supports an EITC effect. Public draft must not imply they deny the placebo pattern.
