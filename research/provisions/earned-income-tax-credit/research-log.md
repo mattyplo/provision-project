@@ -111,3 +111,7 @@ Reviewed [journal-formatted full text §5.4 p.16](https://eml.berkeley.edu/~saez
 
 ## External material-link spot-check — 2026-11-22
 Directly opened eight material source URLs and logged reachability, text extractability, and exact inspection scope in [link QA pass 1](material-link-audit-pass1.md). All opened, one Eissa/Liebman PDF yielded no searchable lines. Checked Leigh abstract wage estimates, HMS published abstract health effect, Schanzenbach/Strain summary, 1975 statute/report identity, Rothstein supplement 27 parameter combinations, Dench/Joyce abstract. No claim of exhaustive link audit or microdata replication.
+
+
+## Full draft outbound citation inventory — 2026-11-22
+Parsed live PR draft: **27 external citations to 24 unique URLs**. Attempted every target and recorded source-specific access and verification status in [inventory](outbound-citation-inventory-final.md). Results 18 readable, 2 open without extractable text, 2 NBER 403, 2 oversized official full PDFs. Corrected public draft's description of HMS response to acknowledge authors had themselves disclosed parity-placebo anomaly; disagreement is over its interpretation. This is not independent reproduction of empirical estimates.
