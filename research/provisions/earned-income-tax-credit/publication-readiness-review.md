@@ -55,3 +55,7 @@ The [TY2026 statutory crosswalk](ty2026-eligibility-statutory-crosswalk.md) dire
 
 ## Previously open fiscal and IRS citations — resolved 2026-11-22
 [Pass 3](citation-qa-pass3.md) **CLOSES** original JCT Table 1 EITC total ($67.2b FY2026), JCT footnote [3] refundable outlay ($56.6b FY2026), and IRS TY2023 historical table (23.2m/$63.8b). Source access restored using JCT's **current** official PDF attachment; draft updated with exact printed-page pinpoints and IRS footnote that starred TY2021–24 data are CDW-based actual volume. **Remaining publication gates:** broader claim/link QA, empirical pinpoint review and TY2026 administrative special cases; publication approval still conditional.
+
+
+## Consolidated current decision — 2026-11-22
+[Final editorial consistency audit](final-editorial-consistency-audit.md): **NOT YET APPROVED**. Earlier dated P0 notes are historical: §152 qualifying-child statutory review and JCT/IRS/GAO fiscal/usage table checks have since closed. **Newly flagged:** Kleven source-audit grid description said 432 = 7×4×4×4, but product is **448**; decomposition withdrawn pending original-paper recheck. Remaining: systematic material-claim/link audit, Kleven exact count/source check, and editorial decision on scope of unverified TY2026 administrative special cases. High-level statutory eligibility summary can disclose limitations; do not label full TY2026 exception matrix certified.
