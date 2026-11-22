@@ -51,3 +51,7 @@ The [TY2026 statutory crosswalk](ty2026-eligibility-statutory-crosswalk.md) dire
 
 ## Citation QA pass 2 — 2026-11-19
 [QA pass 2](citation-qa-pass2.md) **closes** IRS TY2024 claims, IRS TY2022 ACS/CPS participation and GAO FY2023–24 improper/unknown-payment claims at table/footnote level. **JCT original Table 1 total/outlay remains unverified in this pass** due to source timeout, as does TY2023 SOI row. **Publication approval remains conditional.**
+
+
+## Previously open fiscal and IRS citations — resolved 2026-11-22
+[Pass 3](citation-qa-pass3.md) **CLOSES** original JCT Table 1 EITC total ($67.2b FY2026), JCT footnote [3] refundable outlay ($56.6b FY2026), and IRS TY2023 historical table (23.2m/$63.8b). Source access restored using JCT's **current** official PDF attachment; draft updated with exact printed-page pinpoints and IRS footnote that starred TY2021–24 data are CDW-based actual volume. **Remaining publication gates:** broader claim/link QA, empirical pinpoint review and TY2026 administrative special cases; publication approval still conditional.
