@@ -107,3 +107,7 @@ Read live PR provision draft, readiness review, employment robustness, empirical
 
 ## Kleven full-text count recheck (2026-11-22)
 Reviewed [journal-formatted full text §5.4 p.16](https://eml.berkeley.edu/~saez/course/klevenJpubE24EITC.pdf) and [May 2024 author revision §5.4 p.24](https://www.henrikkleven.com/uploads/3/7/3/1/37310663/kleven_eitc_may2024.pdf). Both state 432 while prose lists 7 reform experiments, 4 samples, 4 outcomes, 4 controls = 448 fully crossed; journal Figure 9 says 304 non-1993. Discrepancy not resolved by inspected text. [Detailed audit](kleven-specification-count-audit.md).
+
+
+## External material-link spot-check — 2026-11-22
+Directly opened eight material source URLs and logged reachability, text extractability, and exact inspection scope in [link QA pass 1](material-link-audit-pass1.md). All opened, one Eissa/Liebman PDF yielded no searchable lines. Checked Leigh abstract wage estimates, HMS published abstract health effect, Schanzenbach/Strain summary, 1975 statute/report identity, Rothstein supplement 27 parameter combinations, Dench/Joyce abstract. No claim of exhaustive link audit or microdata replication.
